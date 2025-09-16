@@ -40,18 +40,20 @@ Sample of the Power Query data:
 ----
 
 ## DATA PROCESSING
-# Data Transformation in Power Query: The following process was taken to prepare data for analysis:
+----
+Data Transformation in Power Query: The following process was taken to prepare data for analysis:
   - Removing data duplicates
   - Removing errors
   - Standardization of data
   - Removing null values and blanks
   - Creating of Fact and dimension tables
     
-![Screenshot](/Project/screenshot%20050651.png)
+  <img src="Project/screenshot%20050651.png" alt="Screenshot" width="200" height="200">
+  
 
-# Data Modelling: A star schema relationship was created for the fact table and dimensional table, and the data was permanently stored as import to enhance performance during refreshing.
+Data Modelling: A star schema relationship was created for the fact table and dimensional table, and the data was permanently stored as import to enhance performance during refreshing.
 
-![Screenshot](/Project/screenshot%20044827.png)
+  ![Screenshot](/Project/screenshot%20044827.png)
 
 
 
