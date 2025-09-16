@@ -2,8 +2,14 @@
 ##Table of Contents
 - [Financial Overview](#financial-overview)
 - [Data Source](#data-source)
-- [
-
+- [Preparation Tools](#preparation-tools)
+- [Data Processing](#data-processing)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Objectives](#objectives)
+- [Data Analysis and Visualization](#data-analysis-and-visualization)
+- [Insights](#insights)
+- [Recommendation](#recommendation)
+- [Dashboard Interaction](https://app.powerbi.com/groups/me/list?experience=power-bi)
 
 ----
 
@@ -13,3 +19,22 @@ This report presents a comprehensive overview analysis of my personal bank state
 ----
 
 ## Data Source
+The dataset was downloaded to google drive from my gmail in PDF format. Sample of the PDF bank statement data:
+![Alt text](Screenshot 2025-09-16 075222.png)
+
+To automate my bank statement, I created a workflow in Zapier App that downloads the PDF attachment from my gmail to google drive, and then imported to Power Bi through PDF option in Get data. The data was cleaned and transformed in Power Query for further analysis.
+Sample of the Power Query data:
+![Alt text](Screenshot 2025-09-16 050651.png)
+
+----
+
+## PREPARATION TOOLS
+  - Power Query: This was used as a transformation and cleaning stage for the data before it was imported to the Power BI.
+  - Power BI: This was used for analysis and visualization. A process achieved through DAX measures and visual tool  features in Power BI desktop.
+
+----
+
+## DATA PROCESSING
+
+
+
