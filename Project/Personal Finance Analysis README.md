@@ -29,7 +29,7 @@ Sample of the PDF data:
 To automate my bank statement, I created a workflow in Zapier App that downloads the PDF attachment from my gmail to google drive, and then imported to Power Bi through PDF option in Get data. The data was cleaned and transformed in Power Query for further analysis.
 Sample of the built workflow:
 
-![Screenshot](/Project/screenshot%20105425.png)
+![Screenshot](/Project/Screenshot%20105425.png)
 
 ----
 
