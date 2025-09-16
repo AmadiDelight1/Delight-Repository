@@ -48,15 +48,16 @@ Data Transformation in Power Query: The following process was taken to prepare d
   - Removing null values and blanks
   - Creating of Fact and dimension tables
     
-  <img src="Project/screenshot%20050651.png" alt="Screenshot" width="200" height="200">
-  
+  ![Screenshot](/Project/screenshot%20050651.png)
 
 Data Modelling: A star schema relationship was created for the fact table and dimensional table, and the data was permanently stored as import to enhance performance during refreshing.
 
   ![Screenshot](/Project/screenshot%20044827.png)
 
-
-
+Data Preparation in Power BI: To further prepare the data for analysis I created the following:
+   - Creating of Calender Table: This was created to facitate time-based analysis. First, the date column was created followed by the extraction of Year, Month, MonthNo and Qurater using the Date and Format function.
+     
+   ![Screenshot](/Project/screenshot%20044827.png)  
 
 
 
