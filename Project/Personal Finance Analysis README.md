@@ -21,12 +21,14 @@ This report presents a comprehensive overview analysis of my personal bank state
 ----
 
 ## Data Source
-The dataset was downloaded to google drive from my gmail in PDF format. 
+The dataset was downloaded to google drive from my gmail in PDF format.
+Sample of the PDF data:
 ![Screenshot](/Project/screenshot%20075222.png)
 
 To automate my bank statement, I created a workflow in Zapier App that downloads the PDF attachment from my gmail to google drive, and then imported to Power Bi through PDF option in Get data. The data was cleaned and transformed in Power Query for further analysis.
+Sample of the Power Query data:
 
-! [Screenshot](#screensho-t075222.png)
+![Screenshot](#screensho-t075222.png)
 
 ----
 
