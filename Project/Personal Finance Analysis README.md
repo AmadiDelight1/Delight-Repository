@@ -7,7 +7,7 @@
 - [Preparation Tools](#preparation-tools)
 - [Data Processing](#data-processing)
 - [Skills Demonstrated](#skills-demonstrated)
-- [Objectives](#objectives)
+- [Objective](#objective)
 - [Data Analysis and Visualization](#data-analysis-and-visualization)
 - [Insights](#insights)
 - [Recommendation](#recommendation)
@@ -34,6 +34,7 @@ Sample of the built workflow:
 ----
 
 ## PREPARATION TOOLS
+  - Zapier: This was used to create a workflow for the gmail, goodle drive and Power BI, in other to achieve automation.
   - Power Query: This was used as a transformation and cleaning stage for the data before it was imported to the Power BI.
   - Power BI: This was used for analysis and visualization. A process achieved through DAX measures and visual tool  features in Power BI desktop.
 
@@ -48,16 +49,47 @@ Data Transformation in Power Query: The following process was taken to prepare d
   - Removing null values and blanks
   - Creating of Fact and dimension tables
     
-  ![Screenshot](/Project/screenshot%20050651.png)
+    ![Screenshot](/Project/screenshot%20050651.png)
 
 Data Modelling: A star schema relationship was created for the fact table and dimensional table, and the data was permanently stored as import to enhance performance during refreshing.
 
-  ![Screenshot](/Project/screenshot%20044827.png)
+![Screenshot](/Project/screenshot%20044827.png)
 
 Data Preparation in Power BI: To further prepare the data for analysis I created the following:
    - Creating of Calender Table: This was created to facitate time-based analysis. First, the date column was created followed by the extraction of Year, Month, MonthNo and Qurater using the Date and Format function.
      
-   ![Screenshot](/Project/screenshot%20044827.png)  
+     ![Screenshot](/Project/screenshot%20044606.png) 
+
+   - Creating key measures with DAX: The key measures created includes:
+        ○ Total Income: This is sum of all cash inflow.
+        ○ Total Expenses: This is the sum of all cash outflow.
+        ○ Total Balance: This is the net cash flow for inflow and outflow.
+        ○ Growth rate: This is the use to determine month over month increase or decrease betwwen inflow and outflow.
+     
+        ![Screenshot](/Project/screenshot%20101150.png)
+
+----
+
+## SKILLS DEMONSTRATED
+   - Data Transformation and Extraction: Extracting PDF data from gmail and transforming the data in Power BI.
+   - Data Processing and Cleaning: Correcting errors and inconsistencies in data using Power Query.
+   - Data Analysis: Gaining comprehensive insights using DAX measures.
+   - Visualization and Reporting: Presenting findings with clear insights using the right visuals.
+   - Critical Thinking and Problem-Solving: Identifying trends and implementing proposed change for financial growth.
+
+----
+
+## OBJECTIVE 
+The key objevtive of the analysis includes:
+   - Track cash inflow and outflow from Jan 2025 to Sept 2025.
+   - Compare the inflow and outflow growth rate.
+   - Determine the net cash flow to have a comprehensive financial overview.
+   - Identify the categories with the highest spending.
+
+----
+
+## DATA ANALYSIS AND VISUALIZATION
+
 
 
 
