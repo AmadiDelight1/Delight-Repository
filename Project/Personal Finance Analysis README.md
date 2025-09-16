@@ -58,7 +58,7 @@ Data Modelling: A star schema relationship was created for the fact table and di
 Data Preparation in Power BI: To further prepare the data for analysis I created the following:
    - Creating of Calender Table: This was created to facitate time-based analysis. First, the date column was created followed by the extraction of Year, Month, MonthNo and Qurater using the Date and Format function.
      
-     ![Screenshot](/Project/screenshot%20044606.png) 
+     ![Screenshot](/Project/Screenshot%20044606.png) 
 
    - Creating key measures with DAX: The key measures created includes:
         ○ Total Income: This is sum of all cash inflow.
@@ -66,7 +66,7 @@ Data Preparation in Power BI: To further prepare the data for analysis I created
         ○ Total Balance: This is the net cash flow for inflow and outflow.
         ○ Growth rate: This is the use to determine month over month increase or decrease betwwen inflow and outflow.
      
-        ![Screenshot](/Project/screenshot%20101150.png)
+        ![Screenshot](/Project/Screenshot%20101150.png)
 
 ----
 
