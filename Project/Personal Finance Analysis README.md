@@ -10,7 +10,8 @@
 - [Objective](#objective)
 - [Data Analysis and Visualization](#data-analysis-and-visualization)
 - [Insights](#insights)
-- [Recommendation](#recommendation)
+- [Recommendations](#recommendations)
+- [Dashboard](#dashboard)
 - [Dashboard Interaction](https://app.powerbi.com/groups/me/list?experience=power-bi)
 
 ----
@@ -33,14 +34,14 @@ Sample of the built workflow:
 
 ----
 
-## PREPARATION TOOLS
+## Preparation Tools
   - Zapier: This was used to create a workflow for the gmail, goodle drive and Power BI, in other to achieve automation.
   - Power Query: This was used as a transformation and cleaning stage for the data before it was imported to the Power BI.
   - Power BI: This was used for analysis and visualization. A process achieved through DAX measures and visual tool  features in Power BI desktop.
 
 ----
 
-## DATA PROCESSING
+## Data Processing
 ----
 Data Transformation in Power Query: The following process was taken to prepare data for analysis:
   - Removing data duplicates
@@ -70,7 +71,7 @@ Data Preparation in Power BI: To further prepare the data for analysis I created
 
 ----
 
-## SKILLS DEMONSTRATED
+## Skills Demonstrated
    - Data Transformation and Extraction: Extracting PDF data from gmail and transforming the data in Power BI.
    - Data Processing and Cleaning: Correcting errors and inconsistencies in data using Power Query.
    - Data Analysis: Gaining comprehensive insights using DAX measures.
@@ -79,7 +80,7 @@ Data Preparation in Power BI: To further prepare the data for analysis I created
 
 ----
 
-## OBJECTIVE 
+## Objective
 The key objevtive of the analysis includes:
    - Track cash inflow and outflow from Jan 2025 to Sept 2025.
    - Compare the inflow and outflow growth rate.
@@ -88,7 +89,7 @@ The key objevtive of the analysis includes:
 
 ----
 
-## DATA ANALYSIS AND VISUALIZATION
+## Data Analysis and Visualization
 ----
 Monthly Income and Expenses:
 
@@ -106,11 +107,48 @@ Cash Flow Rate:
 
 ![Screenshot](/Project/Screenshot%20013330.png)
 
-The rate for cash flow is 20% when compared to total inflow. This means that after expenses a total of ₦225,000 remained from ₦1,150,000.
+The rate for cash flow is 20% when compared to total inflow. This means that after expenses a total of ₦224,850 remained from ₦1,150,000.
 
-Dashbo
+Monthly Growth Rate:
+
+![Screenshot](/Project/Screenshot%20013210.png)
+
+July witnessed a sudden massive inflow growth rate of 4031% which was followed by a high spend rate of 34948%. This was clearly shown in the picture above. This shows there was no sustainable growth.
+
+----
+
+## Insights
+
+----
+
+   - Positive Cash Flow: The Net Cash Flow of ₦224,850 indicates that deposit still exceeds the withdrawal even though there was a high spend resulting in net gain.
+
+   - Cumulative Frequency by Month: The pattern suggest that the finance is drained over time. Understanding this pattern could be useful for keeping in check overspending habits.
+
+   - Imbalance in Inflow and Outflow: Though this did not result in a negative cash flow, It affects the net cash flow compared to the total inflow. Indicating that the net cash flow might be affected if the frequency of expenses continue to increase.
+
+   - Top Spending Withdrawals: While rent is a fixed expense, controlling one-off appliances spending could increase overall cash flow rate from 20%.
+
+----
+
+## Recommendations
+
+----
+
+   - There is a good cash inflow but the problem is high withdrawal. Limit withdrawals to basic needs like rent and groceries amd utilities. This might be hard, but developing a disciplined approach to withdrawal can improve growth rate.
+
+----
+
+## Dashboard
+
+----
+
+![Screenshot](/Project/Screenshot%20014850.png)
+
+Using trigger and action features in Power BI and Zapier the dashboard will be automated on 7th of every month to enhance performance and aid accurate reading.
 
 
+     
 
 
 
