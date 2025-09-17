@@ -49,9 +49,9 @@ Data Transformation in Power Query: The following process was taken to prepare d
   - Removing null values and blanks
   - Creating of Fact and dimension tables
     
-    ![Screenshot](/Project/screenshot%20050651.png)
+    ![Screenshot](/Project/screenshot%233138.png)
 
-Data Modelling: A star schema relationship was created for the fact table and dimensional table, and the data was permanently stored as import to enhance performance during refreshing.
+Data Modelling: A star schema relationship was created for the fact table and dimension table, and the data was permanently stored as import to enhance performance during refreshing.
 
 ![Screenshot](/Project/screenshot%20044827.png)
 
@@ -66,7 +66,7 @@ Data Preparation in Power BI: To further prepare the data for analysis I created
         ○ Total Balance: This is the net cash flow for inflow and outflow.
         ○ Growth rate: This is the use to determine month over month increase or decrease betwwen inflow and outflow.
      
-        ![Screenshot](/Project/Screenshot%20101150.png)
+        ![Screenshot](/Project/Screenshot%20013439.png)
 
 ----
 
@@ -83,7 +83,7 @@ Data Preparation in Power BI: To further prepare the data for analysis I created
 The key objevtive of the analysis includes:
    - Track cash inflow and outflow from Jan 2025 to Sept 2025.
    - Compare the inflow and outflow growth rate.
-   - Determine the net cash flow to have a comprehensive financial overview.
+   - Determine the cumulative net cash flow to have a comprehensive financial overview.
    - Identify the categories with the highest spending.
 
 ----
@@ -92,13 +92,13 @@ The key objevtive of the analysis includes:
 ----
 Monthly Income and Expenses:
 
-![Screenshot](/Project/screenshot%20050840.png)
+![Screenshot](/Project/screenshot%20013229.png)
 
-The highest monthly inflow was recorded in February with a total of ₦531,513.62 and lowest inflow was recorded in September with a total of ₦300. Also, the same month has the highest outflow with a total of ₦536,619.39 and lowest outflow was recorded in June with a total of ₦54. This suggests that February was an active month for deposit and withdrawal.
+The highest monthly inflow was recorded in February with a total of ₦552,713.62 and lowest inflow was recorded in September with a total of ₦700. Also, the same month has the highest outflow with a total of ₦470,210.78 and lowest outflow was recorded in June with a total of ₦54. This suggests that February was an active month for deposit and withdrawal.
 
 Top Spending Category:
 
-![Screenshot](/Project/screenshot%20050853.png)
+![Screenshot](/Project/screenshot%20013357.png)
 
 The largest withdrawal occurred on Feb 12, 2025, with transaction amount totaling ₦331,063.62 and the secong highest withdrawal occurred on Feb 17, 2025 with transaction amount totaling ₦105,100.00. These transactions significantly increased the overall outflow.
 
