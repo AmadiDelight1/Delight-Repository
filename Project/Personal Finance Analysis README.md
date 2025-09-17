@@ -98,9 +98,19 @@ The highest monthly inflow was recorded in February with a total of ₦552,713.6
 
 Top Spending Category:
 
-![Screenshot](/Project/Screenshot%20013357.png)
+![Screenshot](/Project/Screenshot%20013305.png)
 
-The largest withdrawal occurred on Feb 12, 2025, with transaction amount totaling ₦331,063.62 and the secong highest withdrawal occurred on Feb 17, 2025 with transaction amount totaling ₦105,100.00. These transactions significantly increased the overall outflow.
+The largest withdrawal occurred on Feb 12, 2025, with transaction amount totaling ₦331,064.07 and the secong highest withdrawal occurred on Jan 20, 2025 with transaction amount totaling ₦98,000. These transactions significantly increased the overall outflow.
+
+Cash Flow Rate:
+
+![Screenshot](/Project/Screenshot%20013330.png)
+
+The rate for cash flow is 20% when compared to total inflow. This means that after expenses a total of ₦225,000 remained from ₦1,150,000.
+
+Dashbo
+
+
 
 
 
