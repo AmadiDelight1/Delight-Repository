@@ -50,7 +50,7 @@ Data Transformation in Power Query: The following process was taken to prepare d
   - Removing null values and blanks
   - Creating of Fact and dimension tables
     
-    ![Screenshot](/Project/Screenshot%233138.png)
+    ![Screenshot](/Project/Screenshot%20233138.png)
 
 Data Modelling: A star schema relationship was created for the fact table and dimension table, and the data was permanently stored as import to enhance performance during refreshing.
 
@@ -143,7 +143,7 @@ July witnessed a sudden massive inflow growth rate of 4031% which was followed b
 
 ----
 
-![Screenshot](/Project/screenshot%20014850.png)
+![Screenshot](/Project/Screenshot%20014850.png)
 
 Using trigger and action features in Power BI and Zapier the dashboard will be automated on 7th of every month to enhance performance and aid accurate reading.
 
