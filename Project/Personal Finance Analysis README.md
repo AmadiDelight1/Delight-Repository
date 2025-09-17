@@ -92,13 +92,13 @@ The key objevtive of the analysis includes:
 ----
 Monthly Income and Expenses:
 
-![Screenshot](/Project/screenshot%20013229.png)
+![Screenshot](/Project/Screenshot%20013229.png)
 
 The highest monthly inflow was recorded in February with a total of ₦552,713.62 and lowest inflow was recorded in September with a total of ₦700. Also, the same month has the highest outflow with a total of ₦470,210.78 and lowest outflow was recorded in June with a total of ₦54. This suggests that February was an active month for deposit and withdrawal.
 
 Top Spending Category:
 
-![Screenshot](/Project/screenshot%20013357.png)
+![Screenshot](/Project/Screenshot%20013357.png)
 
 The largest withdrawal occurred on Feb 12, 2025, with transaction amount totaling ₦331,063.62 and the secong highest withdrawal occurred on Feb 17, 2025 with transaction amount totaling ₦105,100.00. These transactions significantly increased the overall outflow.
 
