@@ -17,7 +17,7 @@
 ----
 
 ## Financial Overview
-This report presents a comprehensive overview analysis of my personal bank statement from Jan 2025 to Sept 2025, based on the provided dataset. The primary objective of this analysis is to automate workflow for my bank statament in other to monitor my personal finance cash flow over a period of time. By extracting these financial insights, this report will provide clear meaning into financial performance and offer insightful recommendations on how to optimize savings by reducing withdrawals.
+This report presents a comprehensive overview analysis of my sister personal bank statement from Jan 2025 to Sept 2025, based on the provided dataset. The primary objective of this analysis is to automate workflow for her bank statament in other to monitor her personal finance cash flow over a period of time. By extracting these financial insights, this report will provide clear meaning into financial performance and offer insightful recommendations on how to optimize savings by reducing withdrawals.
 
 ----
 
@@ -50,14 +50,14 @@ Data Transformation in Power Query: The following process was taken to prepare d
   - Removing null values and blanks
   - Creating of Fact and dimension tables
     
-    ![Screenshot](/Project/screenshot%233138.png)
+    ![Screenshot](/Project/Screenshot%233138.png)
 
 Data Modelling: A star schema relationship was created for the fact table and dimension table, and the data was permanently stored as import to enhance performance during refreshing.
 
 ![Screenshot](/Project/screenshot%20044827.png)
 
 Data Preparation in Power BI: To further prepare the data for analysis I created the following:
-   - Creating of Calender Table: This was created to facitate time-based analysis. First, the date column was created followed by the extraction of Year, Month, MonthNo and Qurater using the Date and Format function.
+   - Creating of Calender Table: This was created to facitate time-based analysis. First, the date column was created followed by the extraction of Year, Month, MonthNo and Quarter using the Date and Format function.
      
      ![Screenshot](/Project/Screenshot%20044606.png) 
 
@@ -81,7 +81,7 @@ Data Preparation in Power BI: To further prepare the data for analysis I created
 ----
 
 ## Objective
-The key objevtive of the analysis includes:
+The key objective of the analysis includes:
    - Track cash inflow and outflow from Jan 2025 to Sept 2025.
    - Compare the inflow and outflow growth rate.
    - Determine the cumulative net cash flow to have a comprehensive financial overview.
@@ -107,7 +107,7 @@ Cash Flow Rate:
 
 ![Screenshot](/Project/Screenshot%20013330.png)
 
-The rate for cash flow is 20% when compared to total inflow. This means that after expenses a total of ₦224,850 remained from ₦1,150,000.
+The rate for cash flow is 20% when compared to total cash inflow. This means that after expenses a total of ₦224,850 remained from ₦1,150,000.
 
 Monthly Growth Rate:
 
@@ -143,7 +143,7 @@ July witnessed a sudden massive inflow growth rate of 4031% which was followed b
 
 ----
 
-![Screenshot](/Project/Screenshot%20014850.png)
+![Screenshot](/Project/screenshot%20014850.png)
 
 Using trigger and action features in Power BI and Zapier the dashboard will be automated on 7th of every month to enhance performance and aid accurate reading.
 
