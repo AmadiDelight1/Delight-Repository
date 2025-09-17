@@ -143,7 +143,7 @@ July witnessed a sudden massive inflow growth rate of 4031% which was followed b
 
 ----
 
-![Screenshot](/Project/Screenshot%20014850.png)
+![Screenshot](/Project/Screenshot1%20014850.png)
 
 Using trigger and action features in Power BI and Zapier the dashboard will be automated on 7th of every month to enhance performance and aid accurate reading.
 
