@@ -1,4 +1,4 @@
-# LOW BIRTH WEIGHT ANALYSIS
+# LOW BIRTH WEIGHT ANALYSIS 2000-2020
 ----
 # Table of Contents
 ----
@@ -82,9 +82,46 @@ The key objective of the analysis includes:
 
 ----
 
-   - Positive Cash Flow: The Net Cash Flow of ₦224,850 indicates that deposit still exceeds the withdrawal even though there was a high spend resulting in net gain.
+ - Which regions have wider uncertainty ranges?:
 
-   - Cumulative Frequency by Month: The pattern suggest that the finance is drained over time. Understanding this pattern could be useful for keeping in check overspending habits.
+![Screenshot](/images/Screenshot%20092332.png)
+
+This scatter plot compares the LBW estimate (%) against the uncertainty range for each region. Regions such as West-Central Africa (W-C Africa) and South Asia shows higher uncertainty and higher LBW prevalence. High-income regions and Central & Eastern Europe (CEE) display lower uncertainty, indicating more reliable data and narrower variability.
+
+Key Takeaway:
+Data uncertainty is highest in regions with weaker health surveillance systems, often low-income and high-burden areas.
+Investment in better data collection could significantly improve the accuracy of LBW estimates in these regions.
+
+  - How has LBW prevalence changed over time across the top 5 regions?:
+
+![Screenshot](/images/Screenshot%20092347.png)
+
+This line chart tracks LBW prevalence from 2000 to 2020. Although all regions show a slight downward trend, South Asia and West-Central Africa remain the highest contributors. Latin America and the Caribbean (LAC) and Middle East & North Africa (MENA) exhibit gradual declines.
+
+Key Takeaways:
+- Progress is uneven: Despite global improvement, some regions are still above 20% LBW prevalence.
+- Persistent hotspots: South Asia and Sub-Saharan Africa continue to bear the heaviest burden, suggesting targeted interventions are needed.
+
+  - Which regions have the highest LBW cases?:
+
+![Screenshot](/images/Screenshot%20092401.png)
+
+Region Prevalence
+South Asia	21%
+East-Southern Africa	17%
+West-Central Africa	15%
+Middle East & North Africa (MENA)	15%
+Latin America & Caribbean (LAC)	11%
+Central-Eastern Europe (CEE)	11%
+High-Income Countries	9%
+East Asia-Pacific	9%
+
+Key Takeaway:
+- South Asia stands out with the highest LBW prevalence (21%), far exceeding the regional average.
+- African regions follow closely, emphasizing the need for maternal health and nutrition interventions.
+- High-income countries and East Asia-Pacific report the lowest rates (<10%), likely due to better prenatal care and socioeconomic conditions.
+
+ - Cumulative Frequency by Month: The pattern suggest that the finance is drained over time. Understanding this pattern could be useful for keeping in check overspending habits.
 
    - Imbalance in Inflow and Outflow: Though this did not result in a negative cash flow, It affects the net cash flow compared to the total inflow. Indicating that the net cash flow might be affected if the frequency of expenses continue to increase.
 
