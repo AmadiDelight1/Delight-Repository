@@ -31,7 +31,7 @@ Sample of the PDF data:
 
 ## Preparation Tools
   - Power Query: This was used to extract, clean, shape, pivot and unpivot data. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
-  - Power BI: This was to create visuals that solve specific problems and real time insights that drives accurate decison making.
+  - Power BI: This was to create visuals that solve specific problems and real time insights that drives accurate decision making.
     
 ----
 
