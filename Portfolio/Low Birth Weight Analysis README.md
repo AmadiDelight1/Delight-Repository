@@ -44,11 +44,11 @@ Data Transformation in Power Query: The following process was taken to prepare d
   - Removing null values and blanks
   - Append tables
     
-    ![Screenshot](/Project/Screenshot%20175855.png)
+    ![Screenshot](/images/Screenshot%20175855.png)
 
 Data Modelling: A star schema relationship was created for the fact table and calendar table, and the data was permanently stored as import to enhance performance during automation.
 
-![Screenshot](/Project/screenshot%20044827.png)
+![Screenshot](/images/Screenshot%20175821.png)
 
 Data Preparation in Power BI: To further prepare the data for analysis I created the following:
    - Creating of Calender Table: This was created to facitate time-based analysis. First, the date column was created followed by the extraction of Year, Month, MonthNo and Quarter using the Date and Format function.
