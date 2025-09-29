@@ -141,7 +141,7 @@ For Monitoring & Evaluation:
 
 ## Dashboard
 
-![Screenshot](/images/Screenshot1%20071857.png)
+![Screenshot](/images/Screenshot%20071857.png)
 
 ----
 
