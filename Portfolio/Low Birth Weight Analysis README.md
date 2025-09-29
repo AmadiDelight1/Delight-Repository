@@ -51,10 +51,10 @@ Data Modelling: A star schema relationship was created for the fact table and ca
 ![Screenshot](/images/Screenshot%20175938.png)
 
    - Creating key measures with DAX: The key measures created includes:
-        ○ Average LBW Estimate Cases: This measure computes the mean percentage of low birth weight across all regions.
-        ○ Uncertainty Range: This KPI helps stakeholders identify regions where data quality is strong versus where further investigation is needed.
-        ○ Lower Credible Interval: It allows users to evaluate the confidence range of the dataset.
-        ○ Upper Credible Interval: It helps users understand the potential upper limit of uncertainty in the data.
+        - Average LBW Estimate Cases: This measure computes the mean percentage of low birth weight across all regions.
+        - Uncertainty Range: This KPI helps stakeholders identify regions where data quality is strong versus where further investigation is needed.
+        - Lower Credible Interval: It allows users to evaluate the confidence range of the dataset.
+        - Upper Credible Interval: It helps users understand the potential upper limit of uncertainty in the data.
      
         ![Screenshot](/images/Screenshot%20175821.png)
 
