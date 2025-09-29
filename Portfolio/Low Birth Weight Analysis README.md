@@ -11,6 +11,7 @@
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
+- [Conclusion](#conclusion)
 - [Dashboard Interaction](https://app.powerbi.com/groups/me/reports/c85de3ac-4038-4785-9237-0b0b6cc18185/fd61d198c31c2463f7b9?experience=power-bi)
 ----
 
@@ -82,7 +83,7 @@ The key objective of the analysis includes:
 
 ----
 
- - Which regions have wider uncertainty ranges?:
+Which regions have wider uncertainty ranges?:
 
 ![Screenshot](/images/Screenshot%20092332.png)
 
@@ -92,7 +93,7 @@ Key Takeaway:
 Data uncertainty is highest in regions with weaker health surveillance systems, often low-income and high-burden areas.
 Investment in better data collection could significantly improve the accuracy of LBW estimates in these regions.
 
-  - How has LBW prevalence changed over time across the top 5 regions?:
+How has LBW prevalence changed over time across the top 5 regions?:
 
 ![Screenshot](/images/Screenshot%20092347.png)
 
@@ -102,7 +103,7 @@ Key Takeaways:
 - Progress is uneven: Despite global improvement, some regions are still above 20% LBW prevalence.
 - Persistent hotspots: South Asia and Sub-Saharan Africa continue to bear the heaviest burden, suggesting targeted interventions are needed.
 
-  - Which regions have the highest LBW cases?:
+Which regions have the highest LBW cases?:
 
 ![Screenshot](/images/Screenshot%20092401.png)
 
@@ -121,29 +122,33 @@ Key Takeaway:
 - African regions follow closely, emphasizing the need for maternal health and nutrition interventions.
 - High-income countries and East Asia-Pacific report the lowest rates (<10%), likely due to better prenatal care and socioeconomic conditions.
 
- - Cumulative Frequency by Month: The pattern suggest that the finance is drained over time. Understanding this pattern could be useful for keeping in check overspending habits.
-
-   - Imbalance in Inflow and Outflow: Though this did not result in a negative cash flow, It affects the net cash flow compared to the total inflow. Indicating that the net cash flow might be affected if the frequency of expenses continue to increase.
-
-   - Top Spending Withdrawals: While rent is a fixed expense, controlling one-off appliances spending could increase overall cash flow rate from 20%.
-
 ----
 
 ## Recommendations
 
 ----
 
-   - There is a good cash inflow but the problem is high withdrawal. Limit withdrawals to basic needs like rent and groceries amd utilities. This might be hard, but developing a disciplined approach to withdrawal can improve growth rate.
+Policy & Intervention Priorities: 
+- South Asia and Sub-Saharan Africa require focused policies addressing maternal nutrition, antenatal care, and healthcare access.
+- Data quality improvements in high-uncertainty regions can enable better resource allocation and targeted programs.
+-Long-term strategies should consider both prevalence trends and uncertainty levels to design more resilient maternal health systems.
+
+For Monitoring & Evaluation:
+- Use uncertainty metrics as indicators of data quality and system reliability.
+- Track temporal changes to measure policy effectiveness and detect emerging risks.
 
 ----
 
 ## Dashboard
 
+![Screenshot](/images/Screenshot1%20071857.png)
+
 ----
 
-![Screenshot](/Project/Screenshot1%20014850.png)
+## Conclusion
+The Low Birth Weight Insights Dashboard provides a powerful lens into regional LBW landscape. While overall prevalence has slightly declined over the last two decades, significant disparities remain. Regions like South Asia and West-Central Africa face persistent challenges, compounded by high uncertainty and weaker health systems.
 
-Using trigger and action features in Power BI and Zapier the dashboard will be automated on 7th of every month to enhance performance and aid accurate reading.
-
-
-     
+Achieving substantial reductions in LBW will require:
+- Strengthening maternal and child health programs
+- Improving data collection infrastructure
+- Targeted resource deployment in the most affected regions.
