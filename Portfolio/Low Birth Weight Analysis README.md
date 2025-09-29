@@ -25,11 +25,7 @@ The dataset was collected from UNICEF/WHO LBW estimate cases and extracted to Po
 
 Sample of the PDF data:
 
-![Screenshot](/images/Screenshot%20075222.png)
+![Screenshot](/images/Screenshot%20180743.png)
 
-To automate her bank statement, I created a workflow in Zapier App that downloads the PDF attachment from her gmail to google drive, and then imported to Power Bi through PDF option in Get data. The data was cleaned and transformed in Power Query for further analysis.
-Sample of the built workflow:
-
-![Screenshot](/Project/Screenshot%20105425.png)
 
 ----
