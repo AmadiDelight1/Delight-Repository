@@ -12,7 +12,7 @@
 - [Insights & Recommendations](#insights-&-recommendations)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
-- [Dashboard Interaction]([https://app.powerbi.com/groups/me/reports/3fe4b636-75a1-4f7b-907b-4cf622bc0047/5a2f51367c78662f0178?experience=power-bi])
+- [Dashboard Interaction](https://app.powerbi.com/groups/me/reports/3fe4b636-75a1-4f7b-907b-4cf622bc0047/5a2f51367c78662f0178?experience=power-bi)
   
 ----
 
@@ -155,7 +155,7 @@ Urban drainage systems should be designed to handle rainfall intensities above 5
 
 ----
 
-![Screenshot](/images/Screenshot%20071857.png)
+![Screenshot](/images/Screenshot%20162948.png)
 
 ----
 
