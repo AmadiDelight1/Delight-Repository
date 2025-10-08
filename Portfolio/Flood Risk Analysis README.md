@@ -14,9 +14,13 @@
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
 - [Dashboard Interaction](https://app.powerbi.com/groups/me/reports/3fe4b636-75a1-4f7b-907b-4cf622bc0047/5a2f51367c78662f0178?experience=power-bi)
+  
 ----
 
 ## Problem Statement
+
+----
+
 Lagos, one of Africa’s fastest-growing coastal cities, faces increasing flood risks driven by climate change, rapid urbanization, poor drainage infrastructure, and changing weather patterns. Each year, intense rainfall and rising sea levels lead to widespread flooding, damaging homes, roads, and public utilities and in many cases costing lives.
 
 Despite the scale of the problem, flood management strategies in many urban centers remain largely reactive rather than proactive. Limited access to actionable weather insights makes it difficult for policymakers, urban planners, and disaster response agencies to anticipate high-risk periods or implement timely interventions. As a result, the city continues to experience recurring human, social, and economic losses that could be mitigated with better data-driven decision-making.
@@ -24,23 +28,32 @@ Despite the scale of the problem, flood management strategies in many urban cent
 ----
 
 ## Analysis Overview
+
+----
+
 This project was designed to investigate flood trends, identify key weather variables, uncover seasonal risk patterns, and generate actionable insights that can guide short-term mitigation and long-term adaptation strategies. By analysing over a decade of weather data (2010–2024), the project leverages data analytics and visualization to translate complex meteorological information into practical intelligence for decision-makers, city planners, emergency responders, and environmental stakeholders with the ultimate goal of saving lives, reducing vulnerability, and strengthening urban resilience.
 
 ----
 
 ## Data Source
+
+----
 The dataset was collected from Nigerian Meteorological Agency (NiMet) website, transformed in google sheet and extracted to Power BI through web option.
 
 ----
 
 ## Preparation Tools
+
+----
   - Google Sheet: This was used to extract, clean and transform the dataset. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
   - Power BI: This was used to create visuals that solve specific problems and real time insights that drives accurate decision making.
     
 ----
 
 ## Data Processing
+
 ----
+
 Data Transformation in Google Sheet: The following process was taken to prepare data for analysis:
   - Removing data duplicates
   - Removing errors
@@ -69,6 +82,8 @@ The key measures created includes:
 ----
 
 ## Skills Demonstrated
+
+----
    - Data Transformation and Extraction: Transforming data in google sheet and extracting to Power Bi through web option. 
    - Data Processing and Cleaning: Correcting errors and inconsistencies in data using Google sheet.
    - Data Analysis: Gaining comprehensive insights using DAX measures.
@@ -78,6 +93,9 @@ The key measures created includes:
 ----
 
 ## Objective
+
+----
+
 The key objective of the analysis includes:
    - Investigate historical flood trends over a 14-year period.
    - Identify critical weather variables such as rainfall intensity, precipitation probability, and sea-level pressure that contribute to flood risk.
