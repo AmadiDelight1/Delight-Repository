@@ -64,7 +64,7 @@ The key measures created includes:
     - Flood Risk Events: Count of days meeting flood risk condition	
     - Average Rainfall on Flood Days: Average rainfall days > 50 mm precipitation
      
-  [Screenshot](/images/Screenshot%20062929.png)
+  ![Screenshot](/images/Screenshot%20062929.png)
 
 ----
 
