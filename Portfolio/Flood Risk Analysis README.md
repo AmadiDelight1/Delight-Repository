@@ -20,9 +20,9 @@
 
 ----
 
-Lagos, one of Africa’s fastest-growing coastal cities, faces increasing flood risks driven by climate change, rapid urbanization, poor drainage infrastructure, and changing weather patterns. Each year, intense rainfall and rising sea levels lead to widespread flooding, damaging homes, roads, and public utilities and in many cases costing lives.
+Lagos, one of Africa’s fastest growing coastal cities, faces increasing flood risks driven by climate change, rapid urbanization, poor drainage infrastructure, and changing weather patterns. Each year, intense rainfall and rising sea levels lead to widespread flooding, damaging homes, roads, and public utilities and in many cases costing lives.
 
-Despite the scale of the problem, flood management strategies in many urban centers remain largely reactive rather than proactive. Limited access to actionable weather insights makes it difficult for policymakers, urban planners, and disaster response agencies to anticipate high-risk periods or implement timely interventions. As a result, the city continues to experience recurring human, social, and economic losses that could be mitigated with better data-driven decision-making.
+Despite the scale of the problem, flood management strategies in many urban centers remain largely reactive rather than proactive. Limited access to actionable weather insights makes it difficult for policymakers, urban planners, and disaster response agencies to anticipate high risk periods or implement timely interventions. As a result, the city continues to experience recurring human, social, and economic losses that could be mitigated with better data-driven decision-making.
 
 ----
 
@@ -30,7 +30,7 @@ Despite the scale of the problem, flood management strategies in many urban cent
 
 ----
 
-This project was designed to investigate flood trends, identify key weather variables, uncover seasonal risk patterns, and generate actionable insights that can guide short-term mitigation and long-term adaptation strategies. By analysing over a decade of weather data (2010–2024), the project leverages data analytics and visualization to translate complex meteorological information into practical intelligence for decision-makers, city planners, emergency responders, and environmental stakeholders with the ultimate goal of saving lives, reducing vulnerability, and strengthening urban resilience.
+This project was designed to investigate flood trends, identify key weather variables, uncover seasonal risk patterns, and generate actionable insights that can guide short-term mitigation and long-term adaptation strategies. By analysing over a decade of weather data (2010–2024), the project leverages data analytics and visualization to translate complex meteorological information into practical intelligence for decision makers, city planners, emergency responders, and environmental stakeholders with the ultimate goal of saving lives, reducing vulnerability, and strengthening urban resilience.
 
 ----
 
@@ -44,7 +44,7 @@ The dataset was collected from Nigerian Meteorological Agency (NiMet) website, t
 ## Preparation Tools
 
 ----
-  - Google Sheet: This was used to extract, clean and transform the dataset. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
+  - Google Sheet: This was used to extract, clean and transform the dataset. Also, it was used to develop a pipeline that cut manual processing from 6 hours to 20 minutes through automation.
   - Power BI: This was used to create visuals that solve specific problems and real time insights that drives accurate decision making.
     
 ----
@@ -88,6 +88,7 @@ The key measures created includes:
    - Data Analysis: Gaining comprehensive insights using DAX measures.
    - Visualization and Reporting: Presenting findings with clear insights using the right visuals that solves specific problems.
    - Critical Thinking and Problem-Solving: Identifying trends, key weather variables that causes flood and uncovering seasonal risk patterns.
+   - Automation: Handled automation using trigger and action in Power BI.
 
 ----
 
@@ -164,3 +165,7 @@ Urban drainage systems should be designed to handle rainfall intensities above 5
 ----
 
 Between 2010 to 2024, 72% of flood risk events occurred during the rainy season, with an average rainfall of 63 mm on those days. Over 31% of those events were linked to high-intensity rainfall combined with sea-level pressure below 1010 hPa, highlighting the urgent need for enhanced drainage capacity and early warning systems before May each year.
+
+----
+
+PS: If you find this project valuable, don’t forget to star the repository.
