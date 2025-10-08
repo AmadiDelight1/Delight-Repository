@@ -1,4 +1,4 @@
-# FLOOD RISK ANALYSIS (2010-2024)
+# LAGOS FLOOD RISK ANALYSIS (2010-2024)
 ----
 # Table of Contents
 ----
@@ -59,12 +59,12 @@ Data Modelling: A star schema relationship was created for the fact table and ca
 
 Dax Measures:
 The key measures created includes:
-    - Total Rainfall (mm): Total precipitation from 2010-2024
-    - Average Sea Level Pressure: Mean sea-level pressure
-    - Flood Risk Events: Count of days meeting flood risk condition	
-    - Average Rainfall on Flood Days: Average rainfall days > 50 mm precipitation
-     
-  ![Screenshot](/images/Screenshot%20062929.png)
+- Total Rainfall (mm): Total precipitation from 2010-2024
+- Average Sea Level Pressure: Mean sea-level pressure
+- Flood Risk Events: Count of days meeting flood risk condition	
+- Average Rainfall on Flood Days: Average rainfall days > 50 mm precipitation
+
+![Screenshot](/images/Screenshot%20062929.png)
 
 ----
 
