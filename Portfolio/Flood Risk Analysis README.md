@@ -2,6 +2,7 @@
 ----
 # Table of Contents
 ----
+- [Problem Statement](#problem-statement)
 - [Analysis Overview](#analysis-overview)
 - [Data Source](#data-source)
 - [Preparation Tools](#preparation-tools)
@@ -15,13 +16,20 @@
 - [Dashboard Interaction](https://app.powerbi.com/groups/me/reports/3fe4b636-75a1-4f7b-907b-4cf622bc0047/5a2f51367c78662f0178?experience=power-bi)
 ----
 
+## Problem Statement
+Lagos, one of Africa’s fastest-growing coastal cities, faces increasing flood risks driven by climate change, rapid urbanization, poor drainage infrastructure, and changing weather patterns. Each year, intense rainfall and rising sea levels lead to widespread flooding, damaging homes, roads, and public utilities and in many cases costing lives.
+
+Despite the scale of the problem, flood management strategies in many urban centers remain largely reactive rather than proactive. Limited access to actionable weather insights makes it difficult for policymakers, urban planners, and disaster response agencies to anticipate high-risk periods or implement timely interventions. As a result, the city continues to experience recurring human, social, and economic losses that could be mitigated with better data-driven decision-making.
+
+----
+
 ## Analysis Overview
-Low birth weight is defined as a birthweight of less than 2,500 grams. it is a critical global health challenge that significantly contributes to infant morbidity, mortality and long-term developmental complications. This analysis aims to identify disparities, highlight progress, expose trends in prevalence and case counts over time and pinpoint areas lagging in LBW reduction. Drawing insights from this analysis will guide interventions to improve maternal and child health and will accelerate progress towards reducing the global burden of low birth weight.
+This project was designed to investigate flood trends, identify key weather variables, uncover seasonal risk patterns, and generate actionable insights that can guide short-term mitigation and long-term adaptation strategies. By analysing over a decade of weather data (2010–2024), the project leverages data analytics and visualization to translate complex meteorological information into practical intelligence for decision-makers, city planners, emergency responders, and environmental stakeholders with the ultimate goal of saving lives, reducing vulnerability, and strengthening urban resilience.
 
 ----
 
 ## Data Source
-The dataset was collected from UNICEF/WHO LBW estimate cases and extracted to Power BI in PDF format, then transformed in Power Query.
+The dataset was collected from UNICEF/WHO LBW estimate cases, transformed in google sheet and extracted to Power BI in PDF format.
 
 Sample of the PDF data:
 
