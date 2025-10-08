@@ -9,11 +9,10 @@
 - [Data Processing](#data-processing)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Objective](#objective)
-- [Insights](#insights)
-- [Recommendations](#recommendations)
+- [Insights & Recommendations](#insights-&-recommendations)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
-- [Dashboard Interaction](https://app.powerbi.com/groups/me/reports/3fe4b636-75a1-4f7b-907b-4cf622bc0047/5a2f51367c78662f0178?experience=power-bi)
+- [Dashboard Interaction]([https://app.powerbi.com/groups/me/reports/3fe4b636-75a1-4f7b-907b-4cf622bc0047/5a2f51367c78662f0178?experience=power-bi])
   
 ----
 
@@ -104,76 +103,64 @@ The key objective of the analysis includes:
      
 ----
 
-## Insights
+## Insights & Recommendations
 
 ----
 
-Which regions have wider uncertainty ranges?:
+Which season influence flood risk events?:
 
-![Screenshot](/images/Screenshot%20092332.png)
+![Screenshot](/images/Screenshot%20062623.png)
 
-This scatter plot compares the LBW estimate (%) against the uncertainty range for each region. Regions such as West-Central Africa (W-C Africa) and South Asia shows higher uncertainty and higher LBW prevalence. High-income regions and Central & Eastern Europe (CEE) display lower uncertainty, indicating more reliable data and narrower variability.
+This donut chart compares the rainy season against the dry season for the time range indicated.The rainy season (Apr–Oct) accounts for 72% of all flood risk events
 
-Key Takeaway:
-Data uncertainty is highest in regions with weaker health surveillance systems, often low-income and high-burden areas.
-Investment in better data collection could significantly improve the accuracy of LBW estimates in these regions.
-
-How has LBW prevalence changed over time across the top 5 regions?:
-
-![Screenshot](/images/Screenshot%20092347.png)
-
-This line chart tracks LBW prevalence from 2000 to 2020. Although all regions show a slight downward trend, South Asia and West-Central Africa remain the highest contributors. Latin America and the Caribbean (LAC) and Middle East & North Africa (MENA) exhibit gradual declines.
-
-Key Takeaways:
-- Progress is uneven: Despite global improvement, some regions are still above 20% LBW prevalence.
-- Persistent hotspots: South Asia and Sub-Saharan Africa continue to bear the heaviest burden, suggesting targeted interventions are needed.
-
-Which regions have the highest LBW cases?:
-
-![Screenshot](/images/Screenshot%20092401.png)
-
-Region Prevalence
-South Asia	21%
-East-Southern Africa	17%
-West-Central Africa	15%
-Middle East & North Africa (MENA)	15%
-Latin America & Caribbean (LAC)	11%
-Central-Eastern Europe (CEE)	11%
-High-Income Countries	9%
-East Asia-Pacific	9%
-
-Key Takeaway:
-- South Asia stands out with the highest LBW prevalence (21%), far exceeding the regional average.
-- African regions follow closely, emphasizing the need for maternal health and nutrition interventions.
-- High-income countries and East Asia-Pacific report the lowest rates (<10%), likely due to better prenatal care and socioeconomic conditions.
+Recommendation:
+Most flood risks occur in the rainy season, particularly August–October. Therefore, early drainage maintenance and awareness campaigns should target this window.
 
 ----
 
-## Recommendations
+Are flood risk events becoming frequent over time?
+
+![Screenshot](/images/Screenshot%20062535.png)
+
+This line chart tracks flood risk event from 2010 to 2020. The result shows that flood risk events increased by 45% between 2010 and 2024, with peaks in 2016 and 2022.
+
+Recommendation:
+Flood risk is increasing over time so this highlights the need for adaptive city planning and resilient infrastructure.
 
 ----
 
-Policy & Intervention Priorities: 
-- South Asia and Sub-Saharan Africa require focused policies addressing maternal nutrition, antenatal care, and healthcare access.
-- Data quality improvements in high-uncertainty regions can enable better resource allocation and targeted programs.
--Long-term strategies should consider both prevalence trends and uncertainty levels to design more resilient maternal health systems.
+Which weather variable highly influence flood?
 
-For Monitoring & Evaluation:
-- Use uncertainty metrics as indicators of data quality and system reliability.
-- Track temporal changes to measure policy effectiveness and detect emerging risks.
+![Screenshot](/images/Screenshot%20062546.png)
+
+The stacked column chart shows that high rainfall intensity is the dominant trigger, often coupled with low sea-level pressure which is < 1010 (hPa)
+
+Recommendation:
+Low sea level is one of the variable that influence flood risk. Threfore,  continuous atmospheric pressure tracking can serve as an early flood warning signal. 
+
+----
+
+What percentage of high-intensity rainfall days result in flood risk?
+
+![Screenshot](/images/Screenshot%20062636.png)
+
+The guage chart shows that approximately 31% of high-intensity rainfall days result in flood conditions.
+
+Recommendation:
+Urban drainage systems should be designed to handle rainfall intensities above 50 mm/day which is identified as high rainfall intensity.
 
 ----
 
 ## Dashboard
+
+----
 
 ![Screenshot](/images/Screenshot%20071857.png)
 
 ----
 
 ## Conclusion
-The Low Birth Weight Insights Dashboard provides a powerful lens into regional LBW landscape. While overall prevalence has slightly declined over the last two decades, significant disparities remain. Regions like South Asia and West-Central Africa face persistent challenges, compounded by high uncertainty and weaker health systems.
 
-Achieving substantial reductions in LBW will require:
-- Strengthening maternal and child health programs
-- Improving data collection infrastructure
-- Targeted resource deployment in the most affected regions.
+----
+
+Between 2010 to 2024, 72% of flood risk events occurred during the rainy season, with an average rainfall of 63 mm on those days. Over 31% of those events were linked to high-intensity rainfall combined with sea-level pressure below 1010 hPa, highlighting the urgent need for enhanced drainage capacity and early warning systems before May each year.
