@@ -108,6 +108,21 @@ What is the average sales amount for each month, and which month records the hig
 
 ![Screenshot](/images/Screenshot%20123217.png)
 
+The results show how average sales fluctuate across months within each year.
+
+![Screenshot](/images/Screenshot%20173959.png)
+
+December consistently shows the highest sales month, likely due to holiday shopping and year-end bonuses. Also, Feb and March tend to record lower sales, possibly due to post holiday spending fatigue. This confirms that sales performance is seasonal, with specific peak periods driving the company’s revenue.
+
+Business Implications: 
+- Plan marketing campaigns, inventory levels and staffing effectively should be prioritized. Seasonal spikes indicate that sales strategies should be intensified before and during this best selling month.
+- Introduce discounts, loyalty offers or new launches to stabilize revenue flow during Feb and March.
+
+----
+
+Which customers contribute the most to overall revenue, and who are the top 5 based on their total purchase value?
+
+![Screenshot](/images/Screenshot%20173959.png)
 
 The stacked column chart shows that high rainfall intensity is the dominant trigger, often coupled with low sea-level pressure which is < 1010 (hPa)
 
