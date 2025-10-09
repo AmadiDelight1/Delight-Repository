@@ -104,9 +104,10 @@ Develop marketing campaigns tailored to this older audience and also consider lo
 
 ----
 
-Which weather variable highly influence flood?
+What is the average sales amount for each month, and which month records the highest sales in each year?
 
-![Screenshot](/images/Screenshot%20062546.png)
+![Screenshot](/images/Screenshot%20123217.png)
+
 
 The stacked column chart shows that high rainfall intensity is the dominant trigger, often coupled with low sea-level pressure which is < 1010 (hPa)
 
