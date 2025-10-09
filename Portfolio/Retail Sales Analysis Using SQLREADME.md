@@ -56,51 +56,51 @@ The dataset was imported as csv to SQL into a retail database created, cleaned a
 Data Transformation in SQL: The following processes was carried out to prepare data for exploratory analysis:
   - Removing data duplicates
 
-    
-  - Removing errors
-  - Standardization of data
-  - Removing null values and blanks
-  - Creating month, year, seasons from the date column. Then, rainfall intensity and flood flag risk from the precipitation and sea level pressure column.
-  - Identifying and removing anomalies.
-    
- Sample of the Transformed data:
+  ![Screenshot](/images/Screenshot%20110706.png)
 
+  - Standardization of data
+
+  ![Screenshot](/images/Screenshot%20111453.png)
+
+  - Removing null values
+
+  ![Screenshot](/images/Screenshot%20121810.png)
+
+----
 
 ## Skills Demonstrated
 
 ----
-   - Data Transformation and Extraction: Transforming data in google sheet and extracting to Power Bi through web option. 
-   - Data Processing and Cleaning: Correcting errors and inconsistencies in data using Google sheet.
-   - Data Analysis: Gaining comprehensive insights using DAX measures.
-   - Visualization and Reporting: Presenting findings with clear insights using the right visuals that solves specific problems.
-   - Critical Thinking and Problem-Solving: Identifying trends, key weather variables that causes flood and uncovering seasonal risk patterns.
-   - Automation: Handled automation using trigger and action in Power BI.
+   - Data Transformation and Extraction: Transforming data in SQL
+   - Data Processing and Cleaning: Correcting errors and inconsistencies in data using SQL
+   - Data Analysis: Gaining comprehensive insights by handling exploratory analysis on the dataset. 
+   - Critical Thinking and Problem-Solving: Solving business problems by using the right functions to query data.
 
 ----
 
-## Insights & Recommendations
+## Insights
 
 ----
 
-Which season influence flood risk events?:
+Which product categories generate the highest total sales?
 
-![Screenshot](/images/Screenshot%20062623.png)
+![Screenshot](/images/Screenshot%20123013.png)
 
-This donut chart compares the rainy season against the dry season for the time range indicated.The rainy season (Apr–Oct) accounts for 72% of all flood risk events
+Electronics leads in total sales, followed by Clothing. Beauty products lags behind, suggesting potential for targeted marketing or product repositioning.
 
-Recommendation:
-Most flood risks occur in the rainy season, particularly August–October. Therefore, early drainage maintenance and awareness campaigns should target this window.
+Business Implications:
+Prioritize inventory and marketing for high-performing categories. Investigate pricing or promotion strategies to boost the selling of Beauty products.
 
 ----
 
-Are flood risk events becoming frequent over time?
+Who are the main customers purchasing Beauty products, and what is their average age?
 
-![Screenshot](/images/Screenshot%20062535.png)
+![Screenshot](/images/Screenshot%20123048.png)
 
-This line chart tracks flood risk event from 2010 to 2020. The result shows that flood risk events increased by 45% between 2010 and 2024, with peaks in 2016 and 2022.
+The Beauty category attracts adults aged 50–58 years on average. This indicates a mature, possibly professional demographic with consistent purchasing power.
 
-Recommendation:
-Flood risk is increasing over time so this highlights the need for adaptive city planning and resilient infrastructure.
+Business Implications:
+Develop marketing campaigns tailored to this older audience and also consider loyalty rewards or premium products aligned with their preferences.
 
 ----
 
