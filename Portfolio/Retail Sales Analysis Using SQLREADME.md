@@ -122,33 +122,44 @@ Business Implications:
 
 Which customers contribute the most to overall revenue, and who are the top 5 based on their total purchase value?
 
-![Screenshot](/images/Screenshot%20173959.png)
+![Screenshot](/images/Screenshot%20123333.png)
 
-The query identifies the top 5 highest-spending customers, showing who contributes the largest share of total revenue.
+The query identifies the top 5 highest-spending customers, showing who contributes the largest share of total revenue. These customers may represent a small percentage of the base but account for a significant portion of total sales
 
-Recommendation:
-
-Low sea level is one of the variable that influence flood risk. Threfore,  continuous atmospheric pressure tracking can serve as an early flood warning signal. 
+Business Implications:
+- The business is reliant on this few number of people meaning customer retention is critical.
+- Losing any of these top spenders could cause a notable drop in revenue.
+- These customers preferences can influence product focus and marketing strategies.
 
 ----
 
-What percentage of high-intensity rainfall days result in flood risk?
+## Recommendation:
 
-![Screenshot](/images/Screenshot%20062636.png)
+----
 
-The guage chart shows that approximately 31% of high-intensity rainfall days result in flood conditions.
-
-Recommendation:
-Urban drainage systems should be designed to handle rainfall intensities above 50 mm/day which is identified as high rainfall intensity.
-
+- Launch targeted ads for Beauty products focusing on adult audiences.
+- Maintain high stock for Electronics and Clothing due to strong performance.
+- Run seasonal promotions for underperforming categories.
+- Monitor category sales trends quarterly to identify shifts in consumer demand.
+- Launch campaigns one month before high-performing months (for instance, promote sales in November to capture December demand).
+- Increase stock and logistics readiness for peak months to avoid shortages.
+- Introduce limited-time discounts or bundle offers during low-sales months to encourage spending.
+- Offer loyalty rewards or exclusive deals to retain top customers.
+- Promote complementary products to increase average transaction value.
+- Identify traits of top customers and target similar profiles through marketing campaigns.
+  
 ----
 
 ## Conclusion
 
 ----
 
-Between 2010 to 2024, 72% of flood risk events occurred during the rainy season, with an average rainfall of 63 mm on those days. Over 31% of those events were linked to high-intensity rainfall combined with sea-level pressure below 1010 hPa, highlighting the urgent need for enhanced drainage capacity and early warning systems before May each year.
+This project demonstrates how SQL analytics can uncover valuable retail insights from raw data. By understanding sales distribution and customer demographics, businesses can:
 
+- Drive data-informed decisions
+- Strengthen marketing campaigns
+- Improve customer engagement and sales performance
+  
 ----
 
 PS: If you find this project valuable, don’t forget to star the repository.
