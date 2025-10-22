@@ -124,9 +124,10 @@ Which customers contribute the most to overall revenue, and who are the top 5 ba
 
 ![Screenshot](/images/Screenshot%20173959.png)
 
-The stacked column chart shows that high rainfall intensity is the dominant trigger, often coupled with low sea-level pressure which is < 1010 (hPa)
+The query identifies the top 5 highest-spending customers, showing who contributes the largest share of total revenue.
 
 Recommendation:
+
 Low sea level is one of the variable that influence flood risk. Threfore,  continuous atmospheric pressure tracking can serve as an early flood warning signal. 
 
 ----
