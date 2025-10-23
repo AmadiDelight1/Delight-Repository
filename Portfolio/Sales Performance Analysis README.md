@@ -1,4 +1,4 @@
-# SALES PERFORMANCE (2023-2024)
+# SALES PERFORMANCE ANALYSIS USING EXCEL(2023-2024)
 ----
 # Table of Contents
 ----
@@ -30,11 +30,15 @@ Sample of the PDF data:
 ----
 
 ## Preparation Tools
-  - Power Query: This was used to extract, clean, shape the data. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
-  - Power Pivot: This enabled the writing of the DAX (Data Analysis Expressions).
-
+  - Power Query: Power Query in Excel was used to extract, clean, shape the data. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
+    
+  - Power Pivot: This enabled the writing of the DAX (Data Analysis Expressions). The key measures created includes:
+        - Total Sales = SUM(Sales[Amount])
+        - Total Profit = SUM(Sales[Profit])
+        - YoY Growth = DIVIDE([Total Sales] - [Last Year Sales], [Last Year Sales])
+        - Profit Margin = DIVIDE([Profit], [Sales])
+    
     ![Screenshot](/images/Screenshot%20093832.png)
-
 
     ![Screenshot](/images/Screenshot%20093846.png)
 
@@ -47,27 +51,12 @@ Data Transformation in Power Query: The following process was taken to prepare d
   - Removing data duplicates
   - Removing errors
   - Standardization of data
-  - Removing null values and blanks
-  - Append tables
-    
-    ![Screenshot](/images/Screenshot%20175855.png)
-
-Data Modelling: A star schema relationship was created for the fact table and calendar table, and the data was permanently stored as import to enhance performance during automation.
-
-![Screenshot](/images/Screenshot%20175938.png)
-
-   - Creating key measures with DAX: The key measures created includes:
-        - Average LBW Estimate Cases: This measure computes the mean percentage of low birth weight across all regions.
-        - Uncertainty Range: This KPI helps stakeholders identify regions where data quality is strong versus where further investigation is needed.
-        - Lower Credible Interval: It allows users to evaluate the confidence range of the dataset.
-        - Upper Credible Interval: It helps users understand the potential upper limit of uncertainty in the data.
-     
-        ![Screenshot](/images/Screenshot%20175821.png)
+  - Removing null values and blank
 
 ----
 
 ## Skills Demonstrated
-   - Data Transformation and Extraction: Extracting PDF data and transforming the data in Power Query.
+   - Data Transformation: Transforming the data in Power Query.
    - Data Processing and Cleaning: Correcting errors and inconsistencies in data using Power Query.
    - Data Analysis: Gaining comprehensive insights using DAX measures.
    - Visualization and Reporting: Presenting findings with clear insights using the right visuals that solves specific problems.
@@ -77,11 +66,11 @@ Data Modelling: A star schema relationship was created for the fact table and ca
 
 ## Objective
 The key objective of the analysis includes:
-   - Average LBW cases regionally
-   - Statistical confidence intervals
-   - Regional variability and uncertainty
-   - Long-term prevalence trends
-   - Key regions with the highest burden
+   - Compare Sales, Profit, Cost, and Quantity between 2023 and 2024.
+   - Analyze monthly revenue trends to track growth patterns and performance consistency.
+   - Evaluate regional sales distribution across North, South, East, and West regions.
+   - Examine product-wise sales breakdown to identify top-performing items.
+   - Provide actionable insights for strategic business decisions.
      
 ----
 
@@ -89,44 +78,52 @@ The key objective of the analysis includes:
 
 ----
 
-Which regions have wider uncertainty ranges?:
+Sales Overview:
 
-![Screenshot](/images/Screenshot%20092332.png)
+![Screenshot](/images/Screenshot%20101034.png)
 
-This scatter plot compares the LBW estimate (%) against the uncertainty range for each region. Regions such as West-Central Africa (W-C Africa) and South Asia shows higher uncertainty and higher LBW prevalence. High-income regions and Central & Eastern Europe (CEE) display lower uncertainty, indicating more reliable data and narrower variability.
+The KPI cards shows the following:
 
-Key Takeaway:
-Data uncertainty is highest in regions with weaker health surveillance systems, often low-income and high-burden areas.
-Investment in better data collection could significantly improve the accuracy of LBW estimates in these regions.
+- Total Sales (2024): $476K → 🔼 30% increase vs LY (2023)
+- Total Quantity Sold: 899 units → 🔼 24% increase vs LY
+- Total Cost: $64K → 🔼 11% vs LY
+- Total Profit: $412K → 🔼 34% vs LY
 
-How has LBW prevalence changed over time across the top 5 regions?:
+Key Takeaway: This indicates strong growth in both revenue and profitability, showing efficient cost control and improved sales performance year-over-year.
 
-![Screenshot](/images/Screenshot%20092347.png)
+Monthly Revenue Trend (2023 vs 2024)
 
-This line chart tracks LBW prevalence from 2000 to 2020. Although all regions show a slight downward trend, South Asia and West-Central Africa remain the highest contributors. Latin America and the Caribbean (LAC) and Middle East & North Africa (MENA) exhibit gradual declines.
+![Screenshot](/images/Screenshot%20100950.png)
 
-Key Takeaways:
-- Progress is uneven: Despite global improvement, some regions are still above 20% LBW prevalence.
-- Persistent hotspots: South Asia and Sub-Saharan Africa continue to bear the heaviest burden, suggesting targeted interventions are needed.
+The line graph shows the following:
+- A visible upward trend in 2024 revenue across most months.
+- Seasonal dips noted around May and December suggesting potential demand fluctuations.
+- Steady growth from June to October, implying effective mid-year sales strategies.
 
-Which regions have the highest LBW cases?:
+Regional Sales Distribution
 
-![Screenshot](/images/Screenshot%20092401.png)
+![Screenshot](/images/Screenshot%20101022.png)
 
-Region Prevalence
-South Asia	21%
-East-Southern Africa	17%
-West-Central Africa	15%
-Middle East & North Africa (MENA)	15%
-Latin America & Caribbean (LAC)	11%
-Central-Eastern Europe (CEE)	11%
-High-Income Countries	9%
-East Asia-Pacific	9%
+The clustered bar chart shows that South region continues to lead in sales, while the North shows promising growth potential.
 
 Key Takeaway:
-- South Asia stands out with the highest LBW prevalence (21%), far exceeding the regional average.
-- African regions follow closely, emphasizing the need for maternal health and nutrition interventions.
-- High-income countries and East Asia-Pacific report the lowest rates (<10%), likely due to better prenatal care and socioeconomic conditions.
+- The West have a strong performance improvement
+- The South needs consistent regional leader
+- There is an emerging growth opportunity in the North
+- The East sales is stable but underperforming
+
+Product-wise Sales Breakdown
+
+![Screenshot](/images/Screenshot%20101007.png)
+
+The column chart shows that monitor category has the highest growth, making it a key revenue driver in 2024.
+
+Key Takeaway:
+Headphones sustained market demand from 2023-2024
+Laptop improved slightly upward from 2023-2024
+Monitor sold the highest
+Mouse	needs renewed marketing
+Printer maintains a consistent sales.
 
 ----
 
@@ -134,15 +131,10 @@ Key Takeaway:
 
 ----
 
-Policy & Intervention Priorities: 
-- South Asia and Sub-Saharan Africa require focused policies addressing maternal nutrition, antenatal care, and healthcare access.
-- Data quality improvements in high-uncertainty regions can enable better resource allocation and targeted programs.
--Long-term strategies should consider both prevalence trends and uncertainty levels to design more resilient maternal health systems.
-
-For Monitoring & Evaluation:
-- Use uncertainty metrics as indicators of data quality and system reliability.
-- Track temporal changes to measure policy effectiveness and detect emerging risks.
-
+- Focus on Monitors & Headphones: These products show the strongest revenue potential.
+- Boost North Region Sales: Implement targeted marketing campaigns or discounts to capitalize on its growing trend.
+- Monitor Cost Efficiency: While profit increased by 34%, cost rose by 11%; cost optimization can further enhance margins.
+- Address Seasonal Dips: Investigate reasons for May and December declines to maintain steady revenue performance.
 ----
 
 ## Dashboard
