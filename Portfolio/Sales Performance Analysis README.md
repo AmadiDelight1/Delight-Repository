@@ -25,14 +25,20 @@ The dataset was imported into Excel and transformed in Power Query.
 
 Sample of the PDF data:
 
-![Screenshot](/images/Screenshot%20180743.png)
+![Screenshot](/images/Screenshot%20093753.png)
 
 ----
 
 ## Preparation Tools
-  - Power Query: This was used to extract, clean, shape, pivot and unpivot data. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
-  - Power BI: This was to create visuals that solve specific problems and real time insights that drives accurate decision making.
-    
+  - Power Query: This was used to extract, clean, shape the data. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
+  - Power Pivot: This enabled the writing of the DAX (Data Analysis Expressions).
+
+    ![Screenshot](/images/Screenshot%20093832.png)
+
+
+    ![Screenshot](/images/Screenshot%20093846.png)
+
+
 ----
 
 ## Data Processing
