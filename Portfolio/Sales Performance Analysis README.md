@@ -32,11 +32,13 @@ Sample of the PDF data:
 ## Preparation Tools
   - Power Query: Power Query in Excel was used to extract, clean, shape the data. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
     
-  - Power Pivot: This enabled the writing of the DAX (Data Analysis Expressions). The key measures created includes:
-        - Total Sales = SUM(Sales[Amount])
-        - Total Profit = SUM(Sales[Profit])
-        - YoY Growth = DIVIDE([Total Sales] - [Last Year Sales], [Last Year Sales])
-        - Profit Margin = DIVIDE([Profit], [Sales])
+  - Power Pivot: This enabled the writing of the DAX (Data Analysis Expressions).
+    
+  The key measures created includes:
+  - Total Sales = SUM(Sales[Amount])
+  - Total Profit = SUM(Sales[Profit])
+  - YoY Growth = DIVIDE([Total Sales] - [Last Year Sales], [Last Year Sales])
+  - Profit Margin = DIVIDE([Profit], [Sales])
     
     ![Screenshot](/images/Screenshot%20093832.png)
 
@@ -80,6 +82,8 @@ The key objective of the analysis includes:
 
 Sales Overview:
 
+----
+
 ![Screenshot](/images/Screenshot%20101034.png)
 
 The KPI cards shows the following:
@@ -91,7 +95,11 @@ The KPI cards shows the following:
 
 Key Takeaway: This indicates strong growth in both revenue and profitability, showing efficient cost control and improved sales performance year-over-year.
 
+----
+
 Monthly Revenue Trend (2023 vs 2024)
+
+----
 
 ![Screenshot](/images/Screenshot%20100950.png)
 
@@ -100,7 +108,11 @@ The line graph shows the following:
 - Seasonal dips noted around May and December suggesting potential demand fluctuations.
 - Steady growth from June to October, implying effective mid-year sales strategies.
 
+----
+
 Regional Sales Distribution
+
+----
 
 ![Screenshot](/images/Screenshot%20101022.png)
 
@@ -112,7 +124,11 @@ Key Takeaway:
 - There is an emerging growth opportunity in the North
 - The East sales is stable but underperforming
 
+----
+
 Product-wise Sales Breakdown
+
+----
 
 ![Screenshot](/images/Screenshot%20101007.png)
 
@@ -139,15 +155,16 @@ Printer maintains a consistent sales.
 
 ## Dashboard
 
-![Screenshot](/images/Screenshot%20071857.png)
+![Screenshot](/images/Screenshot%20114621.png)
 
 ----
 
 ## Conclusion
-The Low Birth Weight Insights Dashboard provides a powerful lens into regional LBW landscape. While overall prevalence has slightly declined over the last two decades, significant disparities remain. Regions like South Asia and West-Central Africa face persistent challenges, compounded by high uncertainty and weaker health systems.
+This dashboard provides a clear and interactive visualization of how business performance evolved from 2023 to 2024. It empowers decision-makers to identify profitable regions, track sales growth, and plan future strategies based on data-driven insights.
 
-Achieving substantial reductions in LBW will require:
-- Strengthening maternal and child health programs
-- Improving data collection infrastructure
-- Targeted resource deployment in the most affected regions.
 
+Connect with Me
+
+Delight Amadi
+📧 Nobledelight7@gmail.com
+💼 Delight Amadi
