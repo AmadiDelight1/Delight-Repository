@@ -11,6 +11,7 @@
 - [Insights](#insights)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
+- [LinkedIn](linkedin.com/in/lawrence-delight-572b17222)
   
 ----
 
@@ -138,4 +139,3 @@ Connect with Me
 
 Delight Amadi
 📧 Nobledelight7@gmail.com
-LinkedIn: linkedin.com/in/lawrence-delight-572b17222
