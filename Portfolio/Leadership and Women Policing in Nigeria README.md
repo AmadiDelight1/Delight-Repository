@@ -133,3 +133,9 @@ This heatmap confirms that women’s leadership participation is not hindered by
 
 The findings from the Leadership and Women Policing in Nigeria (2015–2024) study reveal both progress and persistent gaps in achieving gender equity in the NPF. While awareness and advocacy have increased, tangible policy action and leadership inclusion remain limited. Addressing the institutional and cultural factors identified in this study is essential to building a more equitable, effective, and representative police leadership structure in Nigeria.
 
+
+Connect with Me
+
+Delight Amadi
+📧 Nobledelight7@gmail.com
+LinkedIn: linkedin.com/in/lawrence-delight-572b17222
