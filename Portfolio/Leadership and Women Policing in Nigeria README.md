@@ -1,4 +1,4 @@
-# LOW BIRTH WEIGHT ANALYSIS (2000-2020)
+# LEADERSHIP AND WOMEN POLICING IN NIGERIA (2015–2024)
 ----
 # Table of Contents
 ----
@@ -12,16 +12,16 @@
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
-- [Dashboard Interaction](https://app.powerbi.com/groups/me/reports/c85de3ac-4038-4785-9237-0b0b6cc18185/fd61d198c31c2463f7b9?experience=power-bi)
+  
 ----
 
 ## Analysis Overview
-Low birth weight is defined as a birthweight of less than 2,500 grams. it is a critical global health challenge that significantly contributes to infant morbidity, mortality and long-term developmental complications. This analysis aims to identify disparities, highlight progress, expose trends in prevalence and case counts over time and pinpoint areas lagging in LBW reduction. Drawing insights from this analysis will guide interventions to improve maternal and child health and will accelerate progress towards reducing the global burden of low birth weight.
+This research investigates the dynamics of women leadership participation within the Nigeria Police Force (NPF) from 2015 to 2024. Drawing on survey data from 569 respondents, the study explores key factors influencing leadership advancement among women, examines prevalent workplace challenges, and highlights respondents’ policy recommendations and reform priorities. The findings reveal persistent gender inequality, institutional bias, and cultural stereotypes as primary barriers to women’s leadership progression. However, emerging support for gender quotas and equal opportunity reforms indicates a gradual shift toward inclusive leadership practices.
 
 ----
 
 ## Data Source
-The dataset was collected from UNICEF/WHO LBW estimate cases and extracted to Power BI in PDF format, then transformed in Power Query.
+The dataset was col67?>lected from UNICEF/WHO LBW estimate cases and extracted to Power BI in PDF format, then transformed in Power Query.
 
 Sample of the PDF data:
 
