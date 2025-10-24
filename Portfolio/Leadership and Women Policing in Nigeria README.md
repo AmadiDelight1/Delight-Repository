@@ -11,7 +11,7 @@
 - [Insights](#insights)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
-- [LinkedIn](linkedin.com/in/lawrence-delight-572b17222)
+- [LinkedIn](www.linkedin.com/in/lawrence-delight-572b17222)
   
 ----
 
