@@ -2,7 +2,7 @@
 ----
 # Table of Contents
 ----
-- [Analysis Overview](#analysis-overview)
+- [Abstract](#abstract)
 - [Data Source](#data-source)
 - [Preparation Tools](#preparation-tools)
 - [Data Processing](#data-processing)
@@ -21,9 +21,9 @@ This research investigates the dynamics of women leadership participation within
 ----
 
 ## Data Source
-The dataset was col67?>lected from UNICEF/WHO LBW estimate cases and extracted to Power BI in PDF format, then transformed in Power Query.
-
-Sample of the PDF data:
+The study utilizes a quantitative research design based on data collected from the Nigeria Police Force Research Survey (2015–2024).A sample size of 569 respondents out of 1000 survey form sent.
+ 
+Sample of dataset:
 
 ![Screenshot](/images/Screenshot%20180743.png)
 
