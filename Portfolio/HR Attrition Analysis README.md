@@ -18,7 +18,7 @@
 
 ----
 
-Employee attrition remains one of the biggest challenges for organizations.The HR Attrition Analytics dashboard provides a comprehensive analysis of employee behavior, satisfaction and demographics.The dashboard helps HR teams uncover root causes of attrition and make evidence based decisions that support retention and workforce planning.
+Employee attrition remains one of the biggest challenges for organizations.The HR Attrition Analytics dashboard provides a comprehensive analysis of employee behavior, turn over, satisfaction and demographics.The dashboard helps HR teams uncover root causes of attrition and make evidence based decisions that support retention and workforce planning.
 
 Key questions answered include:
 - What factors contribute most to attrition?
@@ -125,7 +125,7 @@ The visual shows Employees who left by department:
 - HR: 12
 
 Key Takeaway:
-R&D has the highest attrition likely due to workload pressure, skill competition and limited career growth paths.
+R&D has the highest attrition likely due to workload pressure, skill competition and limited career growth paths. Also most R&D staff fall into the 25–34 range which is the highest attrition age group.
 
 ----
 
@@ -141,37 +141,79 @@ This visual show the following:
 - 55+ → 11
 
 Key Takeaway:
-Early career employees are the most volatile. They value growth opportunities, competitive salaries and career mobility.
+Employees aged 25–34 show the highest turnover due to:
+- Career-switching
+- Desire for rapid growth
+- Competitive salary expectations
+- Relocation flexibility
 
 ----
 
+Marital Status vs Attrition Rate
 
+![Screenshot](/images/Screenshot%20093917.png)
+
+This visual show the following:
+- Married → 51%
+- Single → 35%
+- Divorced → 14%
+
+Key Takeaway:
+From the dashboard visuals, married employees show the highest attrition rate compared to single and divorced employees. This may happen due to:
+- Higher Financial Pressure
+- Work–Life Balance Challenges
+- Limited Career Progression
+
+----
 
 ## Recommendations
 
 ----
 
-Policy & Intervention Priorities: 
-- South Asia and Sub-Saharan Africa require focused policies addressing maternal nutrition, antenatal care, and healthcare access.
-- Data quality improvements in high-uncertainty regions can enable better resource allocation and targeted programs.
--Long-term strategies should consider both prevalence trends and uncertainty levels to design more resilient maternal health systems.
+Improve Work–Life Balance:
+- Introduce flexible working hours or hybrid options.
+- Review workload distribution across departments.
+- Implement wellness and burnout-prevention programs.
 
-For Monitoring & Evaluation:
-- Use uncertainty metrics as indicators of data quality and system reliability.
-- Track temporal changes to measure policy effectiveness and detect emerging risks.
+Strengthen Compensation & Benefits
+- Benchmark salaries against industry standards.
+- Offer targeted salary adjustments for mid-career employees.
+- Introduce performance bonuses tied to retention.
+
+Enhance Career Growth Opportunities
+- Create transparent promotion paths and development plans.
+- Sponsor role-specific training or certifications.
+- Introduce mentorship programs for mid-level employees.
+
+Reduce Attrition in High-Impact Departments (R&D)
+- Conduct stay interviews to understand high turnover drivers.
+- Assign manageable project loads and improve manager employee relationships.
+- Offer project-completion incentives or recognition programs.
+
+Support Married & Mid-Career Employees
+- Provide family-friendly benefits (healthcare, childcare support, leave).
+- Create flexible policies for parents or caregivers.
+- Offer career progression programs tailored for experienced employees.
 
 ----
 
 ## Dashboard
 
-![Screenshot](/images/Screenshot%20071857.png)
+----
+
+![Screenshot](/images/Screenshot%20093748.png)
 
 ----
 
 ## Conclusion
-The Low Birth Weight Insights Dashboard provides a powerful lens into regional LBW landscape. While overall prevalence has slightly declined over the last two decades, significant disparities remain. Regions like South Asia and West-Central Africa face persistent challenges, compounded by high uncertainty and weaker health systems.
 
-Achieving substantial reductions in LBW will require:
-- Strengthening maternal and child health programs
-- Improving data collection infrastructure
-- Targeted resource deployment in the most affected regions.
+----
+
+This HR Analytics Dashboard provides a clear, data-driven view of employee attrition patterns across departments, age groups, marital status and satisfaction metrics. The analysis reveals that married and mid-career employees show the highest attrition, with the R&D department being the most impacted. Indicator such as work–life balance strongly influence employee decisions to leave.
+
+The recommendations provided offer a structured approach for HR teams to address these issues focusing on improving work–life balance, strengthening compensation, enhancing career development and creating better support systems for experienced employees. By implementing these actions, organizations can significantly reduce turnover, improve employee engagement and build a more stable and productive workforce.
+
+Thank You!
+
+Let's connect
+delightamadi.carrd.com
