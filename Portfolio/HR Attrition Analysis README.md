@@ -48,17 +48,17 @@ Sample of the Python script and dataset:
 
 ----
 
-  - Python: Kaggle environment was created on Anaconda and the dataset was downloaded using pythin script, Also the Kaggle API was authenticated on this platform. The process cut manual processing from 6 hours to 10 mins.
-  - Excel Power Query: The dataset was transformed and cleaned using this tool. A process that makes automation easy for subsequent refreshing.
-  - Excel Power Pivot: Perform exploratory analysis, create dax measures and pivot table.
+- Python: Kaggle environment was created on Anaconda and the dataset was downloaded using pythin script, Also the Kaggle API was authenticated on this platform. The process cut manual processing from 6 hours to 10 mins.
+- Excel Power Query: The dataset was transformed and cleaned using this tool. A process that makes automation easy for subsequent refreshing.
+- Excel Power Pivot: Perform exploratory analysis, create dax measures and pivot table.
 
 ![Screenshot](/images/Screenshot%20183433.png)
 
 Creating key measures with DAX: The key measures created includes:
-        - Total Employee: Counts the total number of employees in the dataset. This is the baseline number for calculating other metrics.
-        - Attrition Count: Counts how many employees left the company. This measure filters the table to capture only rows where Attrition = “Yes”.
-        - Attrition Rate: This measure calculates the percentage of employees who left.
-        - Avg Income: This measure pulls the overall average monthly income across all employees.
+- Total Employee: Counts the total number of employees in the dataset. This is the baseline number for calculating other metrics.
+- Attrition Count: Counts how many employees left the company. This measure filters the table to capture only rows where Attrition = “Yes”.
+- Attrition Rate: This measure calculates the percentage of employees who left.
+- Avg Income: This measure pulls the overall average monthly income across all employees.
 
  ![Screenshot](/images/Screenshot%20181150.png) 
 
@@ -108,26 +108,20 @@ Even employees reporting Good and Great satisfaction exhibit significant attriti
 
 ----
 
-How many employee left each Department?
+How many Employee left each Department?
 
-![Screenshot](/images/Screenshot%20092401.png)
+![Screenshot](/images/Screenshot%20093840.png)
 
-Region Prevalence
-South Asia	21%
-East-Southern Africa	17%
-West-Central Africa	15%
-Middle East & North Africa (MENA)	15%
-Latin America & Caribbean (LAC)	11%
-Central-Eastern Europe (CEE)	11%
-High-Income Countries	9%
-East Asia-Pacific	9%
+The visual shows Employees who left by department:
+- R&D: 133
+- Sales: 92
+- HR: 12
 
 Key Takeaway:
-- South Asia stands out with the highest LBW prevalence (21%), far exceeding the regional average.
-- African regions follow closely, emphasizing the need for maternal health and nutrition interventions.
-- High-income countries and East Asia-Pacific report the lowest rates (<10%), likely due to better prenatal care and socioeconomic conditions.
+R&D has the highest attrition likely due to workload pressure, skill competition and limited career growth paths.
 
 ----
+
 
 ## Recommendations
 
