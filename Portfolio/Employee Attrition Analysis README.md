@@ -26,7 +26,11 @@ This dashboard solves that problem by transforming HR data into a simple, intera
 ## Data Source
 Built a datapipeline from Kaggle to Excel using Python and Kaggle API generated from the Kaggle and transformed in Power Query.
 
-Sample of the PDF data:
+Sample of the Python script and dataset:
+
+![Screenshot](/images/Screenshot%20162658.png)
+
+![Screenshot](/images/Screenshot%20162758.png)
 
 ![Screenshot](/images/Screenshot%20163920.png)
 
