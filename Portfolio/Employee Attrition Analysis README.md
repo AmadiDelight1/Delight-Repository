@@ -28,30 +28,17 @@ Built a datapipeline from Kaggle to Excel using Python and Kaggle API generated 
 
 Sample of the PDF data:
 
-![Screenshot](/images/Screenshot%20180743.png)
+![Screenshot](/images/Screenshot%20163920.png)
 
 ----
 
 ## Preparation Tools
-  - Power Query: This was used to extract, clean, shape, pivot and unpivot data. Also, it was used to develop a pipeline that cut manual processing from 4 hours to 20 minutes
-  - Power BI: This was to create visuals that solve specific problems and real time insights that drives accurate decision making.
+  - Python: Kaggle environment was created on Anaconda and the dataset was downloaded using pythin script, Also the Kaggle API was authenticated on this platform. The process cut manual processing from 6 hours to 10 mins.
+  - Power Query: The dataset was transformed and cleaned using this tool. A process that makes automation easy for subsequent refreshing.
     
 ----
-
-## Data Processing
-----
-Data Transformation in Power Query: The following process was taken to prepare data for analysis:
-  - Removing data duplicates
-  - Removing errors
-  - Standardization of data
-  - Removing null values and blanks
-  - Append tables
-    
-    ![Screenshot](/images/Screenshot%20175855.png)
 
 Data Modelling: A star schema relationship was created for the fact table and calendar table, and the data was permanently stored as import to enhance performance during automation.
-
-![Screenshot](/images/Screenshot%20175938.png)
 
    - Creating key measures with DAX: The key measures created includes:
         - Average LBW Estimate Cases: This measure computes the mean percentage of low birth weight across all regions.
