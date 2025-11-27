@@ -1,4 +1,4 @@
-# EMPLOYEE ATTRITION ANALYSIS
+# HR EMPLOYEE ATTRITION ANALYSIS
 ----
 # Table of Contents
 ----
@@ -93,7 +93,7 @@ The chart shows Attrition rates by work-life balance rating:
 - Great → 17.6%
 
 Key Takeaway:
-Employees with Poor worklife balance are twice as likely to leave which shows that workload imbalance is a major risk.
+The 31% attrition rate among employees with poor balance suggests workload overload, poor scheduling, lack of flexible work arrangements and insufficient HR monitoring of burnout.
 
 ----
 
@@ -104,11 +104,18 @@ How deos Job Satisfaction Rate affect Attrition?:
 This visual shows comparison of attrition between “Yes” (left) and “No” (stayed) groups across satisfaction levels.
 
 Key Takeaways:
-Even employees reporting Good and Great satisfaction exhibit significant attrition, signaling issues beyond satisfaction.
-
+Even employees with Great satisfaction leave. This implies:
+- Satisfaction ≠ engagement
+- Engagement ≠ retention
+Other hidden drivers may include:
+- Compensation disparities
+- Career stagnation
+- Micromanagement
+- Poor leadership communication
+  
 ----
 
-How many Employee left each Department?
+How many Employees left each Department?
 
 ![Screenshot](/images/Screenshot%20093840.png)
 
@@ -121,6 +128,23 @@ Key Takeaway:
 R&D has the highest attrition likely due to workload pressure, skill competition and limited career growth paths.
 
 ----
+
+Age Group vs Attrition Count
+
+![Screenshot](/images/Screenshot%20093855.png)
+
+This visual show the following:
+- Under 25 → 38
+- 25–34 → 112 (highest)
+- 35–44 → 51
+- 45–54 → 25
+- 55+ → 11
+
+Key Takeaway:
+Early career employees are the most volatile. They value growth opportunities, competitive salaries and career mobility.
+
+----
+
 
 
 ## Recommendations
