@@ -154,15 +154,15 @@ Marital Status vs Attrition Rate
 ![Screenshot](/images/Screenshot%20093917.png)
 
 This visual show the following:
-- Married → 51%
-- Single → 35%
+- Married → 35%
+- Single → 51%
 - Divorced → 14%
 
 Key Takeaway:
-From the dashboard visuals, married employees show the highest attrition rate compared to single and divorced employees. This may happen due to:
-- Higher Financial Pressure
-- Work–Life Balance Challenges
-- Limited Career Progression
+From the dashboard visuals, single employees show the highest attrition rate compared to married and divorced employees. This may happen due to:
+- Career exploration
+- Mobility
+- Flexibility.
 
 ----
 
@@ -195,6 +195,12 @@ Support Married & Mid-Career Employees
 - Create flexible policies for parents or caregivers.
 - Offer career progression programs tailored for experienced employees.
 
+Increase Engagement for Single Employees
+- Introduce skill-development programs
+- Promote social belonging
+- Review compensation competitiveness
+- Provide flexible work arrangements
+  
 ----
 
 ## Dashboard
