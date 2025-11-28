@@ -215,7 +215,7 @@ Increase Engagement for Single Employees
 
 ----
 
-This HR Analytics Dashboard provides a clear, data-driven view of employee attrition patterns across departments, age groups, marital status and satisfaction metrics. The analysis reveals that married and mid-career employees show the highest attrition, with the R&D department being the most impacted. Indicator such as work–life balance strongly influence employee decisions to leave.
+This HR Analytics Dashboard provides a clear, data-driven view of employee attrition patterns across departments, age groups, marital status and satisfaction metrics. The analysis reveals that single and mid-career employees show the highest attrition, with the R&D department being the most impacted. Indicator such as work–life balance strongly influence employee decisions to leave.
 
 The recommendations provided offer a structured approach for HR teams to address these issues focusing on improving work–life balance, strengthening compensation, enhancing career development and creating better support systems for experienced employees. By implementing these actions, organizations can significantly reduce turnover, improve employee engagement and build a more stable and productive workforce.
 
