@@ -69,12 +69,12 @@ Creating key measures with DAX: The key measures created includes:
 ----
 
    - Automated Dataset Retrieval Using Python & Kaggle API
-   - Data Cleaning & Preparation in Python
+   - Data Cleaning & Preparation in Power Query
    - Pivot Table & Dashboard Development
    - Automation between Python and Excel
    - Analytical Storytelling
    - Critical Thinking
-   - Proble Solivng
+   - Problem Solivng
      
 ----
 
