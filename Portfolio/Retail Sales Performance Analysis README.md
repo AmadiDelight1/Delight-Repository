@@ -60,7 +60,7 @@ The key measures created includes:
   - Profit Selected Period and growth
   - Order Selected Period and growth
   - Selected Period Value
-    
+
 ![Screenshot](/images/Screenshot%20093846.png)
 
 
