@@ -73,22 +73,19 @@ Data Cleaning
 ----
 - Removed duplicates and null values
 - Standardized column formats
-  
+---- 
 Data Transformation
 ----
 - Created a period table which includes today, this week, this month, last 2 & 6 months and the whole year.
   
-![Screenshot](/images/Screenshot%20191712.png)
+![Screenshot](/images/Screenshot%20200722.png)
 
+----
+Data Modeling:
+----
+Created one to many relationship between the fact table and the date table.
 
-Data Modeling
-Established relationships between tables (Sales, Customers, Products, Geography)
-Created measures for:
-Total Revenue
-Total Profit
-Order Count
-Customer Count
-Percentage changes (week-over-week)
+![Screenshot](/images/Screenshot%20200832.png)
 
 ----
 
