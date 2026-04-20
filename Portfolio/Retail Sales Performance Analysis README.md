@@ -8,7 +8,7 @@
 - [Preparation Tools](#preparation-tools)
 - [Data Processing](#data-processing)
 - [Skills Demonstrated](#skills-demonstrated)
-- [Insights](#insights)
+- [Insights For This Week Period](#insights-for-this-week-period)
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
@@ -22,6 +22,7 @@ The analysis focuses on answering key questions:
 Where is revenue coming from?
 Which segments drive the most value?
 What areas require attention or optimization?
+
 ----
 
 ## Objective
@@ -90,55 +91,50 @@ Created one to many relationship between the fact table and the date table.
 ----
 
 ## Skills Demonstrated
-   - Data Transformation: Transforming the data in Power Query.
-   - Data Processing and Cleaning: Correcting errors and inconsistencies in data using Power Query.
-   - Data Analysis: Gaining comprehensive insights using DAX measures.
-   - Visualization and Reporting: Presenting findings with clear insights using the right visuals that solves specific problems.
-   - Critical Thinking and Problem-Solving: Identifying trends, uncertainties and disparities in different regions.
+----
+This project highlights strong proficiency in:
+- Data cleaning and transformation (Power Query)
+- Data modelling
+- DAX calculations and KPI creation
+- Dashboard design and storytelling
+- Data visualization
+- Pareto analysis for business insights
+- Analytical thinking and interpretation
 
 ----
 
-## Objective
-The key objective of the analysis includes:
-   - Compare Sales, Profit, Cost, and Quantity between 2023 and 2024.
-   - Analyze monthly revenue trends to track growth patterns and performance consistency.
-   - Evaluate regional sales distribution across North, South, East, and West regions.
-   - Examine product-wise sales breakdown to identify top-performing items.
-   - Provide actionable insights for strategic business decisions.
-     
-----
-
-## Insights
+## Insights For This Week Period
 
 ----
 
-Sales Overview:
+KPI Overview:
 
 ----
 
-![Screenshot](/images/Screenshot%20101034.png)
+![Screenshot](/images/Screenshot%20201001.png)
 
 The KPI cards shows the following:
 
-- Total Sales (2024): $476K → 🔼 30% increase vs LY (2023)
-- Total Quantity Sold: 899 units → 🔼 24% increase vs LY
-- Total Cost: $64K → 🔼 11% vs LY
-- Total Profit: $412K → 🔼 34% vs LY
+- Total Revenue: $97K (+13.8% vs last week)
+- Total Profit: $26K (+10.7% vs last week)
+- Total Orders: 42 (no change)
+- Total Customers: 42 (no change)
 
-Key Takeaway: This indicates strong growth in both revenue and profitability, showing efficient cost control and improved sales performance year-over-year.
-
-----
-
-Monthly Revenue Trend (2023 vs 2024)
+Key Takeaway: This indicates revenue and profit are growing, but customer acquisition and order volume are stagnant for the week selected.
 
 ----
 
-![Screenshot](/images/Screenshot%20100950.png)
+Revenue Trend
+
+----
+
+![Screenshot](/images/Screenshot%20200928.png)
 
 The line graph shows the following:
-- A visible upward trend in 2024 revenue across most months.
-- Seasonal dips noted around May and December suggesting potential demand fluctuations.
-- Steady growth from June to October, implying effective mid-year sales strategies.
+- Revenue shows a decline mid-week followed by a recovery toward the end
+- Lowest point occurs around Dec 27
+
+This indicates possible demand fluctuation or operational inconsistency.
 
 ----
 
