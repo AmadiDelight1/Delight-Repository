@@ -12,7 +12,7 @@
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
-  
+- [Dashboard Interaction]([https://app.powerbi.com/groups/9fb15e56-0513-49f1-b8ba-bf62189bd04c/reports/d831b4cb-c540-4014-bc3c-772e7fadfb14/d06b28e503e04ebad1a0?experience=power-bi])
 ----
 
 ## Analysis Overview
