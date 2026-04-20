@@ -67,11 +67,28 @@ The key measures created includes:
 
 ## Data Processing
 ----
-Data Transformation in Power Query: The following process was taken to prepare data for analysis:
-  - Removing data duplicates
-  - Removing errors
-  - Standardization of data
-  - Removing null values and blank
+Data preparation involved several key steps:
+
+Data Cleaning
+----
+- Removed duplicates and null values
+- Standardized column formats
+  
+Data Transformation
+----
+- Created a period table which includes today, this week, this month, last 2 & 6 months and the whole year.
+  
+![Screenshot](/images/Screenshot%20191712.png)
+
+
+Data Modeling
+Established relationships between tables (Sales, Customers, Products, Geography)
+Created measures for:
+Total Revenue
+Total Profit
+Order Count
+Customer Count
+Percentage changes (week-over-week)
 
 ----
 
