@@ -128,7 +128,7 @@ Revenue Trend
 
 ----
 
-![Screenshot](/images/Screenshot%20200928.png)
+![Screenshot](/images/Screenshot%20200859.png)
 
 The line graph shows the following:
 - Revenue shows a decline mid-week followed by a recovery toward the end
