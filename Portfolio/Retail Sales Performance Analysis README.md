@@ -61,8 +61,7 @@ The key measures created includes:
   - Order Selected Period and growth
   - Selected Period Value
 
-![Screenshot](/images/Screenshot%20093846.png)
-
+![Screenshot](/images/Screenshot%20191712.png)
 
 ----
 
