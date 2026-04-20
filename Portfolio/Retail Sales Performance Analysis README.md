@@ -138,7 +138,6 @@ This indicates possible demand fluctuation or operational inconsistency.
 
 ----
 
-Regional Sales Distribution
 
 ----
 
