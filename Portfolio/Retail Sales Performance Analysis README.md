@@ -142,20 +142,15 @@ The chart shows a V-shaped holiday retail cycle which positions the store's outl
 
 ![Screenshot](/images/Screenshot%20202004.png)
 
-| Category |Revenue | Pareto | 
-|----------|--------|--------| 
-|          |        |        |
+|    Category          |              Revenue               |             Pareto Position          | 
+|----------------------|------------------------------------|--------------------------------------|  
+|     Furniture        |            ~$36K                   |          #1 — 38% cumulative         | 
+|     Electronics      |            ~$20K                   |          #2 — 58% cumulative         |            
+|     Home Appliances  |            ~$19K                   |          #3 — 78% cumulative         | 
+|     Toys             |            ~$11K                   |          #4 — 89% cumulative         | 
+|     Fashion          |            ~$10K                   |          #5 — 100%                   | 
 
-
-
-
-
-
-
-
-PositionFurniture~$36K#1 — 38% cumulativeElectronics~$20K#2 — 58% cumulativeHome Appliances~$19K#3 — 78% cumulativeToys~$11K#4 — 89% cumulativeFashion~$10K#5 — 100%
-
-Furniture alone drives 38% of weekly revenue, making it the single most critical category. Furniture + Electronics together account for 58% — meaning just 2 of 5 categories generate the majority of sales.
+Furniture alone drives 38% of weekly revenue, making it the single most critical category. Furniture and Electronics together account for 58% meaning just 2 of 5 categories generate the majority of sales.
 
 ----
 
