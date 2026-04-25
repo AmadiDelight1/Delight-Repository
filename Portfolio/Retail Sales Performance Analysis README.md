@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Performance Analysis
+# 🛒 Retail Sales Performance Analysis 2024
 # Dashboard powered by Pareto-based Sales Intelligence
 # Period: This Week
 ----
@@ -65,16 +65,17 @@ The following tools were used across the data preparation, modelling and visuali
 
 ## Data Processing
 ----
-Data preparation involved several key steps:
+The data processing workflow followed a structured ETL and modelling approach:
+# Data Extraction & Loading: 
+Raw transactional data was extracted from the retail database and loaded into Power BI via Power Query. 
+Tables loaded include: Sales, Products, Customers, Geography, SalesPerson.
 
-Data Cleaning
-----
-- Removed duplicates and null values
-- Standardized column formats
----- 
-Data Transformation
-----
-- Created a period table which includes today, this week, this month, last 2 & 6 months and the whole year.
+# Data Cleaning & Transformation: 
+- Removed duplicate and null transaction records.
+- Standardised date formats and ensured consistent fiscal week definitions.
+- Validated geographic mappings (State → Region).
+- Resolved inconsistencies in customer and sales representative name fields.
+- Created Period table called ThisPeriod.
   
 ![Screenshot](/images/Screenshot%20200722.png)
 
