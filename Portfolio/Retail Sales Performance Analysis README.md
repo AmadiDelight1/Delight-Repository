@@ -18,51 +18,46 @@
 ----
 
 ## Analysis Overview
-The sales dashboard is designed to provide a comprehensive view of retail performance with a strong emphasis on decision-oriented analytics. It combines KPI tracking, revenue selected period visualization and an advanced Pareto-based performance evaluation to highlight the most impactful contributors to business performance each period.
 
-The analysis focuses on answering key questions:
-Where is revenue coming from?
-Which segments drive the most value?
-What areas require attention or optimization?
+This project presents a comprehensive Retail Sales Performance Analysis for Delight's Store, examining weekly sales data through the lens of the Pareto Principle (80/20 Rule). The analysis explores revenue concentration across multiple dimensions including product categories, subcategories, individual products, sales personnel, customers, regions, and states, to surface actionable intelligence for strategic decision-making.
+By applying Pareto-based Pareto charts alongside revenue trend lines and threshold indicators, the analysis pinpoints which segments drive the most value and which require targeted intervention. The result is a dynamic, filterable Power BI dashboard that empowers stakeholders to make data-driven decisions with precision and confidence.
 
 ----
 
 ## Objective
-The primary objectives of this project are:
+The primary objectives of this analysis are:
 
-- Monitor selected period sales performance
-- Identify top-performing products, regions, sales person and customers
-- Apply the Pareto principle (80/20 rule) to revenue distribution
-- Enable data-driven decision-making
-- Detect growth opportunities and inefficiencies.
-
+- Identify revenue concentration: Determine which categories, products, customers, sales persons, regions and states generate the majority of total revenue.
+- Apply the Pareto Principle: Use the 80/20 rule to segment high-impact contributors from low-impact ones across all dimensions.
+- Track weekly performance: Monitor revenue trends, order volumes, profit margins and customer activity for the current week versus the prior week.
+- Enable data-driven prioritization: Provide leadership with clear visual evidence of where to concentrate resources, marketing spend and sales effort.
+- Surface underperformance: Highlight low-performing states, products and salespeople so targeted recovery strategies can be deployed.
+  
 ----
 
 ## Data Source
-The dataset used for this dashboard is based on a retail system, capturing real-world business operations such as sales transactions, customer behavior and product performance.
+----
+- Source Type: Internal Retail Transaction Database
+- Period Covered: This Week (Dec 24 – Dec 30)
+- Total Revenue: $5,148,133.00
+- This Week Revenue: $96,541 (1.88% of Total Revenue)
+- Total Orders (This Week): 42
+- Total Customers (This Week): 42
+- Dimensions Covered: Category, Subcategory, Product, Customer, Sales Person, Region and State
+- Metrics Tracked: Revenue, Profit, Orders and Pareto %
 
-The data includes:
-- Sales transactions
-- Product categories and subcategories
-- Customer information
-- Order status data
-- Geographic data (states/regions)
-- Sales person data
-
+The dataset includes transactional records segmented by geography (12 US states, 4 regions), product taxonomy (5 categories, multiple subcategories and SKUs), customer profiles and sales representative assignments. Order status data captures fulfilment pipeline stages: Delivered, On Way, Awaiting Confirmation and New.
+  
 ----
 
 ## Preparation Tools
-The following tools and technologies were used:
-Power Query – Data cleaning and transformation
-Power BI – Data modeling and dashboard creation
-DAX (Data Analysis Expressions) – Calculated measures and KPIs
-
-The key measures created includes:
-  - Revenue Selected Period and growth
-  - Customer Selected Period and growth
-  - Profit Selected Period and growth
-  - Order Selected Period and growth
-  - Selected Period Value
+----
+The following tools were used across the data preparation, modelling and visualisation pipeline:
+- Power BI Desktop: Primary dashboard development, DAX calculations and interactive visualisations.
+- Microsoft Excel: Initial data exploration, cleaning and pre-processing.
+- Power Query: ETL (Extract, Transform, Load) operations within Power BI
+- DAX (Data Analysis Expressions): Custom measures for Pareto %, Revenue, Profit, WoW comparisons and KPI indicators
+- GitHub: Version control, portfolio hosting and documentation.
 
 ![Screenshot](/images/Screenshot%20191712.png)
 
