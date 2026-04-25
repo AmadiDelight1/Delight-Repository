@@ -140,15 +140,22 @@ The chart shows a V-shaped holiday retail cycle which positions the store's outl
 
 # Sales Performance by Category
 
-![Screenshot](/images/Screenshot%20101022.png)
+![Screenshot](/images/Screenshot%20202004.png)
 
-The clustered bar chart shows that South region continues to lead in sales, while the North shows promising growth potential.
+| Category |Revenue | Pareto | 
+|----------|--------|--------| 
+|          |        |        |
 
-Key Takeaway:
-- The West have a strong performance improvement
-- The South needs consistent regional leader
-- There is an emerging growth opportunity in the North
-- The East sales is stable but underperforming
+
+
+
+
+
+
+
+PositionFurniture~$36K#1 — 38% cumulativeElectronics~$20K#2 — 58% cumulativeHome Appliances~$19K#3 — 78% cumulativeToys~$11K#4 — 89% cumulativeFashion~$10K#5 — 100%
+
+Furniture alone drives 38% of weekly revenue, making it the single most critical category. Furniture + Electronics together account for 58% — meaning just 2 of 5 categories generate the majority of sales.
 
 ----
 
