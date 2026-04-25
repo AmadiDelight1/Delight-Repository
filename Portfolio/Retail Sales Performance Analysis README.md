@@ -217,7 +217,7 @@ Sales Performance by State
 
 ![Screenshot](/images/Screenshot%20183807.png)
 
-Illinois is the #1 state, contributing 18% of weekly revenue by itself. The top 7 states (Illinois through Texas) collectively account for 79% of state-level revenue — the Pareto threshold. States like Georgia, Massachusetts, and New Jersey are significantly underperforming and require dedicated strategies.
+Illinois is the highest state, contributing 18% of weekly revenue by itself. The top 7 states (Illinois to Texas) collectively account for 79% of state-level revenue, the Pareto threshold. States like Georgia, Massachusetts, and New Jersey are significantly underperforming and require dedicated strategies.
 
 ----
 
