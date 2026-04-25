@@ -79,10 +79,10 @@ Tables loaded include: Sales, Products, Customers, Geography, SalesPerson.
   
 ![Screenshot](/images/Screenshot%20200722.png)
 
-----
-Data Modeling:
-----
-Created one to many relationship between the fact table and the date table.
+# Data Modeling:
+- Implemented a flat table with Sales as the fact table.
+- Configured bi-directional and single-directional filters as appropriate.
+- Created one to many relationship between the fact table and the date table.
 
 ![Screenshot](/images/Screenshot%20200832.png)
 
@@ -90,35 +90,33 @@ Created one to many relationship between the fact table and the date table.
 
 ## Skills Demonstrated
 ----
-This project highlights strong proficiency in:
-- Data cleaning and transformation (Power Query)
-- Data modelling
-- DAX calculations and KPI creation
-- Dashboard design and storytelling
-- Data visualization
-- Pareto analysis for business insights
-- Analytical thinking and interpretation
-
+- Data Analysis: Pareto Analysis, Trend Analysis, Comparative Analysis (WoW) and Concentration Analysis.
+- Business Intelligence: KPI design, executive dashboard development, multi-dimensional drill-through.
+- DAX & Power Query: Custom measures, cumulative calculations and time intelligence.
+- Data Visualisation: Pareto combo charts, KPI cards, donut charts, line trend charts and order status bar charts.
+- Storytelling with Data: Translating complex sales data into clear, decision-ready narratives.
+- Data Modelling: Relationship management, filter context control.
+- Critical Thinking: Identifying revenue drivers, flagging underperformers and formulating strategic recommendations.
+- Documentation: Professional GitHub README writing and structured portfolio presentation.
 ----
 
 ## Insights For This Week Period
 
 ----
 
-KPI Overview:
+# KPI Overview:
 
 ----
 
 ![Screenshot](/images/Screenshot%20201001.png)
 
 The KPI cards shows the following:
+- Total Revenue this week: $97K (+13.8% vs. last week)
+- Total Profit this week: $26K (+10.7% vs. last week)
+- Total Orders: 42
+- Total Customers: 42
 
-- Total Revenue: $97K (+13.8% vs last week)
-- Total Profit: $26K (+10.7% vs last week)
-- Total Orders: 42 (no change)
-- Total Customers: 42 (no change)
-
-Key Takeaway: This indicates revenue and profit are growing, but customer acquisition and order volume are stagnant for the week selected.
+Revenue for this week ($96,541) represents 1.88% of the total revenue ($5,148,133).
 
 ----
 
@@ -129,15 +127,18 @@ Revenue Trend
 ![Screenshot](/images/Screenshot%20200859.png)
 
 The line graph shows the following:
-- Revenue shows a decline mid-week followed by a recovery toward the end
-- Lowest point occurs around Dec 27
+- A day-by-day breakdown table (Dec 24–30) comparing each day's revenue against the weekly daily average of $13,792
+- Identification of the Dec 24 spike (~$27K, nearly double the average) driven by pre-Christmas demand
+- Explanation of the Dec 25–27 dip (post-Christmas lull pattern)
+- Recognition of the steady recovery from Dec 28–30, rising back above average by Dec 30
 
-This indicates possible demand fluctuation or operational inconsistency.
+The chart shows a V-shaped holiday retail cycle which positions the store's outlook positively for the coming week
 
 ----
-
-
+# Pareto-based Performance Analysis
 ----
+
+# Sales Performance by Category
 
 ![Screenshot](/images/Screenshot%20101022.png)
 
