@@ -66,11 +66,11 @@ The following tools were used across the data preparation, modelling and visuali
 ## Data Processing
 ----
 The data processing workflow followed a structured ETL and modelling approach:
-# Data Extraction & Loading: 
+### Data Extraction & Loading: 
 Raw transactional data was extracted from the retail database and loaded into Power BI via Power Query. 
 Tables loaded include: Sales, Products, Customers, Geography, SalesPerson.
 
-# Data Cleaning & Transformation: 
+### Data Cleaning & Transformation: 
 - Removed duplicate and null transaction records.
 - Standardised date formats and ensured consistent fiscal week definitions.
 - Validated geographic mappings (State → Region).
@@ -79,7 +79,7 @@ Tables loaded include: Sales, Products, Customers, Geography, SalesPerson.
   
 ![Screenshot](/images/Screenshot%20200722.png)
 
-# Data Modeling:
+### Data Modeling:
 - Implemented a flat table with Sales as the fact table.
 - Configured bi-directional and single-directional filters as appropriate.
 - Created one to many relationship between the fact table and the date table.
