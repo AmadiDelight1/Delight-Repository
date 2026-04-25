@@ -1,4 +1,6 @@
-# Retail Sales Performance Analysis: KPI, Trend & Pareto Insights
+# 🛒 Retail Sales Performance Analysis
+# Dashboard powered by Pareto-based Sales Intelligence
+# Period: This Week
 ----
 # Table of Contents
 ----
