@@ -104,7 +104,7 @@ Tables loaded include: Sales, Products, Customers, Geography, SalesPerson.
 
 ----
 
-# KPI Overview:
+### KPI Overview:
 
 ----
 
@@ -120,22 +120,18 @@ Revenue for this week ($96,541) represents 1.88% of the total revenue ($5,148,13
 
 ----
 
-Revenue Trend
+### Revenue Trend
 
 ----
 
 ![Screenshot](/images/Screenshot%20200859.png)
 
-The line graph shows the following:
-- A day-by-day breakdown table (Dec 24–30) comparing each day's revenue against the weekly daily average of $13,792
-- Identification of the Dec 24 spike (~$27K, nearly double the average) driven by pre-Christmas demand
-- Explanation of the Dec 25–27 dip (post-Christmas lull pattern)
-- Recognition of the steady recovery from Dec 28–30, rising back above average by Dec 30
+The line graph shows that:
 
-The chart shows a V-shaped holiday retail cycle which positions the store's outlook positively for the coming week
+Dec 24 recorded a sharp revenue spike nearly double the weekly daily average of $13,792. This is likely driven by last-minute pre-Christmas purchases. Revenue then dropped significantly across Dec 25–27, consistent with post-Christmas shopping lulls and potential store or fulfilment closures. A recovery trend is clearly visible from Dec 28 through Dec 30, with revenue climbing steadily back toward and above the weekly average by the final day of the period. This V-shaped dip-and-recovery pattern is characteristic of holiday retail cycles and suggests underlying demand remains healthy heading into the new week.
 
 ----
-# Pareto-based Performance Analysis
+### Pareto-based Performance Analysis
 ----
 
 Sales Performance by Category
@@ -198,30 +194,99 @@ Sales Performance by Customer
 
 ----
 
+Sales Performance by Region
+
+----
+
+![Screenshot](/images/Screenshot%20201742.png)
+
+|    Region            |              Revenue               |             Pareto %                 | 
+|----------------------|------------------------------------|--------------------------------------|  
+|     Central          |            ~$43K                   |              44%  cumulative         | 
+|     West             |            ~$22K                   |              66%  cumulative         |            
+|     South            |            ~$19K                   |              85%  cumulative         | 
+|     East             |            ~$14K                   |              100% cumulative         | 
+
+The Central region dominates, contributing 44% of weekly revenue alone. Central and West together account for 66%, crossing the Pareto significance threshold. The East region is the lowest performer and should be prioritised for targeted regional strategies.
+
+----
+
+Sales Performance by State
+
+----
+
+![Screenshot](/images/Screenshot%20183807.png)
+
+Illinois is the #1 state, contributing 18% of weekly revenue by itself. The top 7 states (Illinois through Texas) collectively account for 79% of state-level revenue — the Pareto threshold. States like Georgia, Massachusetts, and New Jersey are significantly underperforming and require dedicated strategies.
+
+----
+
+Order Status Breakdown
+
+----
+![Screenshot](/images/Screenshot%20200912.png)
+
+Only 36% of this week's orders have been fully delivered. Over 38% of orders are still unconfirmed or newly placed, indicating pipeline management opportunities to accelerate order processing and fulfilment velocity.
 
 ----
 ## Recommendations
 
 ----
 
-- Focus on Monitors & Headphones: These products show the strongest revenue potential.
-- Boost North Region Sales: Implement targeted marketing campaigns or discounts to capitalize on its growing trend.
-- Monitor Cost Efficiency: While profit increased by 34%, cost rose by 11%; cost optimization can further enhance margins.
-- Address Seasonal Dips: Investigate reasons for May and December declines to maintain steady revenue performance.
+Based on the Pareto analysis across all dimensions, the following strategic recommendations are proposed:
+
+Double Down on Top Performers: 
+- Furniture and Electronics should receive priority in inventory management, promotions and marketing spend.
+- Queen Bed Frame and Sony Headphones are star SKUs, ensure stock availability and consider bundling strategies to increase average order value.
+- Emily Garcia and Angela Kim are top-performing sales reps, document their sales approaches and use it as internal benchmarks for team training.
+
+Develop Underperforming Segments
+- East region and states like Georgia, Massachusetts and New Jersey fall well outside the Pareto performance zone. Deploy region-specific campaigns, local partnerships or targeted digital advertising.
+- Mike Lee and Sarah Johnson need structured coaching plans, performance targets and potentially account reassignments to better leverage high-potential territories.
+
+Invest in High-Value Customer Retention
+- The top 8 customers driving ~60% of customer revenue warrant VIP treatment such as personalised outreach, loyalty rewards and early access to new products.
+- Re-engagement campaigns should target the long-tail customer base with relevant product offers based on purchase history.
+
+Accelerate Order Fulfilment
+- With 38% of orders still in early pipeline stages, focus on reducing confirmation-to-shipment cycle times.
+- Consider automated order confirmation workflows and proactive customer communication to improve fulfilment velocity and customer satisfaction scores.
+
+Grow the Central and West Regions
+- The Central region is the clear revenue engine,  protect and grow this market through deeper local sales investment and exclusive product availability.
+- West region shows strong cumulative contribution (66%) and has room to grow toward Central-level performance with additional sales rep support.
+
+Review Long-Tail Product Portfolio
+- Products falling in the 80–100% Pareto cumulative zone (Lego Set, Dell XPS 15, Office Chair, Maxi Dress, etc.) should be evaluated for discontinuation, bundling or discounting to optimise working capital and shelf space.
+  
 ----
 
 ## Dashboard
 
-![Screenshot](/images/Screenshot%20114621.png)
+![Screenshot](/images/Screenshot%20184442.png)
+![Screenshot](/images/Screenshot%20183807.png)
+
+- Blue bars: Revenue per segment (descending order)
+- Green line: Cumulative Pareto percentage
+- Red/threshold line: 80% Pareto cutoff indicator
+- Purple shading: Segments falling beyond the threshold (long tail)
 
 ----
 
 ## Conclusion
-This dashboard provides a clear and interactive visualization of how business performance evolved from 2023 to 2024. It empowers decision-makers to identify profitable regions, track sales growth, and plan future strategies based on data-driven insights.
 
+---
+This Retail Sales Performance Analysis confirms that revenue is highly concentrated across Delight's Store operations, a classic manifestation of the Pareto Principle. A small number of categories, products, sales representatives, customers, and geographic regions are responsible for the overwhelming majority of weekly revenue.
+This week's performance is encouraging: total revenue grew +13.8% and total profit grew +10.7% versus the prior week, led by strong results in Furniture, the Central region, Illinois, and top performers like Emily Garcia and Jason Mack.
 
-Connect with Me
+However, the analysis also reveals meaningful opportunities: underperforming states in the East, a long tail of low-revenue products straining inventory, a fulfilment pipeline where nearly 40% of orders are unconfirmed or new, and sales representatives who would benefit from structured development.
 
-Delight Amadi
-📧 Nobledelight7@gmail.com
-💼 Delight Amadi
+By acting on the Pareto-driven insights surfaced in this dashboard, Delight's Store leadership can make smarter, faster, and more targeted decisions by concentrating resources where they generate the greatest return while designing recovery strategies that lift the bottom of the performance curve.
+
+Connect with me!
+
+📂 Portfolio by: Delight Amadi
+🔗 Repository: Delight-Repository on GitHub
+📅 Analysis Period: This Week
+📧 Email: Nobledelight7@gmail.com
+
