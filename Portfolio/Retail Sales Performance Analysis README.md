@@ -138,7 +138,9 @@ The chart shows a V-shaped holiday retail cycle which positions the store's outl
 # Pareto-based Performance Analysis
 ----
 
-# Sales Performance by Category
+Sales Performance by Category
+
+----
 
 ![Screenshot](/images/Screenshot%20202004.png)
 
@@ -154,23 +156,50 @@ Furniture alone drives 38% of weekly revenue, making it the single most critical
 
 ----
 
-Product-wise Sales Breakdown
+Sales Performance by Sub-category
 
 ----
 
-![Screenshot](/images/Screenshot%20101007.png)
+![Screenshot](/images/Screenshot%20201944.png)
 
-The column chart shows that monitor category has the highest growth, making it a key revenue driver in 2024.
-
-Key Takeaway:
-Headphones sustained market demand from 2023-2024
-Laptop improved slightly upward from 2023-2024
-Monitor sold the highest
-Mouse	needs renewed marketing
-Printer maintains a consistent sales.
+Queen Bed Frame is the highest-revenue product, generating ~$26K (~28% cumulative), far outpacing all other SKUs.
+The top 4 products (Queen Bed Frame, Sony Headphones, Dining Table, Polo Shirt) collectively account for approximately 58% of product revenue.
+The long tail of products (Lego Set, Dell XPS 15, Puzzle Box, Sneakers V2, Maxi Dress and Office Chair) are well into the Pareto threshold zone, contributing little to total revenue.
 
 ----
 
+Sales Performance by Sales Person
+
+----
+
+![Screenshot](/images/Screenshot%20201802.png)
+
+|    Sales Person      |              Revenue               |             Pareto %                 | 
+|----------------------|------------------------------------|--------------------------------------|  
+|     Emily Garcia     |            ~$31K                   |              32%                     | 
+|     Angela Kim       |            ~$24K                   |              58%                     |            
+|     James Brown      |            ~$20K                   |              79%                     | 
+|     Sarah Johnson    |            ~$10K                   |              90%                     | 
+|     Mike Lee         |            ~$10K                   |              100%                     | 
+
+Emily Garcia is the top revenue generator, responsible for 32% of weekly sales revenue on her own. The top 3 salespeople (Emily, Angela, James) collectively drive 79% of total weekly sales revenue distribution. Sarah Johnson and Mike Lee represent an opportunity for coaching and performance uplift.
+
+----
+
+Sales Performance by Customer
+
+----
+
+![Screenshot](/images/Screenshot%20201833.png)
+
+- Jason Mack is the highest-value customer this week at ~$7K, followed by Robert Peterson and Mrs. Amy Watson.
+- The top 8 customers account for approximately 60% of total weekly customer revenue.
+- A long tail of 30+ customers in the threshold zone each contribute very small individual amounts, suggesting opportunities for upselling and re-engagement programmes.
+
+----
+
+
+----
 ## Recommendations
 
 ----
