@@ -27,7 +27,7 @@ By applying Pareto-based Pareto charts alongside revenue trend lines and thresho
 ## Objective
 The primary objectives of this analysis are:
 
-- Identify revenue concentration: Determine which categories, products, customers, sales persons, regions and states generate the majority of total revenue.
+- Identify revenue concentration: Determine which categories, products, customers, salesperson, regions and states generate the majority of total revenue.
 - Apply the Pareto Principle: Use the 80/20 rule to segment high-impact contributors from low-impact ones across all dimensions.
 - Track weekly performance: Monitor revenue trends, order volumes, profit margins and customer activity for the current week versus the prior week.
 - Enable data-driven prioritization: Provide leadership with clear visual evidence of where to concentrate resources, marketing spend and sales effort.
